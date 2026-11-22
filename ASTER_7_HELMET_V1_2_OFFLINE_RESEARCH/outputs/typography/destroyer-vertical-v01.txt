@@ -1,0 +1,1 @@
+Built-in image_gen. Reference: recon-vertical-v01.png. Prompt: DESTROYER, uppercase condensed heavy geometric black letters, entire word rotated 90 degrees clockwise, D at top and R at bottom, centered on acid yellow-green square, no additional text or symbols. Requested 2048x2048. Native size (1254, 1254); delivery 2048x2048, proportionally resampled if needed.

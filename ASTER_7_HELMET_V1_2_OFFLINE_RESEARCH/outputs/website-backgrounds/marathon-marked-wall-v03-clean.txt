@@ -1,0 +1,5 @@
+v03 全新微反光墙面，2026-11-22
+内置 image_gen 编辑 v02；原创非官方资产。保留布局，去除做旧，增加轻微半光泽反射。未替换网页。
+
+PROMPT
+Edit the provided wall image only in material finish and lighting. Preserve exactly its frontal wide composition, wall panel geometry, all signage and lettering, big 03 at left and 02 at right, orange/navy/lime/blue color shapes, and the large blank center. Make the entire wall FACTORY NEW: completely remove scratches, chips, dirt, grunge, stains, weathering and distressed paint from every surface and printed marking. Smooth pristine high-quality powder-coated metal / lacquered composite panels, crisp flawless paint boundaries and clean precise seams. Add subtle satin-to-semi-gloss reflectivity: gentle broad softbox-like reflected highlights and a delicate clean sheen, especially on orange and navy paint; the off-white center has a very soft luminous reflection gradient. Restrained realistic reflections, not mirror chrome, no harsh glare, no visible reflected objects. Fresh clean high-tech Marathon-inspired facility. No added objects, shelves or new graphics. Keep image aspect ratio.

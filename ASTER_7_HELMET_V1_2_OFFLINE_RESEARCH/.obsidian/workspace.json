@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "7d89d554679ac167",
+    "type": "split",
+    "children": [
+      {
+        "id": "d693a4db39105d41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b14259e5e3d36dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "final-products/references/REF-STUDY-11-PETROL-MAGENTA.png"
+              },
+              "icon": "lucide-image",
+              "title": "REF-STUDY-11-PETROL-MAGENTA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd3a1d4fa30533df",
+    "type": "split",
+    "children": [
+      {
+        "id": "99efbb7fa1b1a95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ac5579672ba8f33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9a7a85148805b094",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "96b362fc4e4aabbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4369c17cd996e76",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d92529a5577d810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dec9905ff1fd8ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "final-products/references/REF-STUDY-11-PETROL-MAGENTA.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "REF-STUDY-11-PETROL-MAGENTA 的反向链接列表"
+            }
+          },
+          {
+            "id": "34f2a54d3cd39e0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "final-products/references/REF-STUDY-11-PETROL-MAGENTA.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "REF-STUDY-11-PETROL-MAGENTA 的出链列表"
+            }
+          },
+          {
+            "id": "d8f712af53572df0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9ebb4f3aec3fb1f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "92cbc91d37707b81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "final-products/references/REF-STUDY-11-PETROL-MAGENTA.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "REF-STUDY-11-PETROL-MAGENTA 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "7b14259e5e3d36dc",
+  "lastOpenFiles": [
+    "final-products/references/REF-STUDY-10-PLUM-SIGNAL.png",
+    "final-products/references/REF-STUDY-09-BRIDGE-FRAME.png",
+    "final-products/references/REF-REJECTED-STUDY-12-OXIDE-ICE.png",
+    "final-products/images/FINAL-01-03_RECON_LOUVRES.png",
+    "final-products/images/FINAL-01-02_RECON_PIXEL-MAGENTA.png",
+    "final-products/images/FINAL-01-01_RECON_ORANGE-BLACK.png",
+    "final-products/04刺客/最终方案03.md",
+    "final-products/04刺客/最终方案04.md",
+    "final-products/04刺客/FINAL-04-01-before-cleanup-v08.png",
+    "archive/04-assassin-final-backups/FINAL-04-04_ASSASSIN_BLUE-CONTOURS-before-size-alignment.png",
+    "archive/04-assassin-final-backups/FINAL-04-03_ASSASSIN_RED-CROSS-X-before-size-alignment.png",
+    "archive/04-assassin-final-backups/FINAL-04-01-before-enlarge-v10.png",
+    "archive/04-assassin-final-backups/FINAL-04-01-before-cleanup-v08.png",
+    "archive/04-assassin-final-backups",
+    "final-products/01侦察/最终方案.md",
+    "final-products/01侦察/最终方案01.md",
+    "final-products/03哨兵/最终方案04.md",
+    "final-products/01侦察/最终方案02.md",
+    "final-products/03哨兵/最终方案01.md",
+    "final-products/03哨兵/最终方案02.md",
+    "final-products/03哨兵/最终方案03.md",
+    "final-products/04刺客/最终方案02.md",
+    "final-products/04刺客/最终方案01.md",
+    "outputs/website-backgrounds/marathon-lime-wall-v04.txt",
+    "outputs/website-backgrounds/marathon-marked-wall-v03-clean.txt",
+    "outputs/website-backgrounds/marathon-marked-wall-v02.txt",
+    "final-products/02毁灭者/最终方案04.md",
+    "outputs/website-backgrounds/marathon-archive-four-shelves-v01.txt",
+    "outputs/website-backgrounds",
+    "final-products/02毁灭者/最终方案03.md",
+    "final-products/02毁灭者/最终方案02.md",
+    "final-products/02毁灭者/最终方案01.md",
+    "final-products/01侦察/最终方案04.md",
+    "final-products/01侦察/最终方案03.md",
+    "final-products/03哨兵",
+    "FINAL_PRODUCTS.md",
+    "final-products/04刺客",
+    "outputs/destroyer-skins/SKIN-07_BEETLE_REFERENCE-NOTES.md",
+    "archive/03_哨兵_头部锚点_结构锁定前_20261121.md",
+    "outputs/destroyer-skins/SKIN-06_ARC_REFERENCE-NOTES.md",
+    "archive/03_哨兵_头部锚点_整理前_20261121.md",
+    "outputs/assassin",
+    "outputs/typography/assassin-vertical-v01.txt",
+    "03_哨兵_头部锚点.md",
+    "04_刺客_头部锚点.md",
+    "outputs/recon-case04/设计记录.md",
+    "未命名.canvas"
+  ]
+}

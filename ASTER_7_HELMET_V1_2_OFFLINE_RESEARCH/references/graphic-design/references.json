@@ -1,0 +1,306 @@
+[
+  {
+    "id": "G01",
+    "pin": "741053313740588049",
+    "source_page": "https://www.pinterest.com/pin/741053313740588049/",
+    "pin_title": "Typography poster chaos | Chaos design typography, Chaos poster typogrphy, Distorted text poster design",
+    "description": "23-Jun-2026 — Looking for experimental typography inspiration? This brutalist poster design features bold, distressed acid green lettering spelling \"CHAOS\" against a textured black background. Perfect for graphic designers, artists, and typography lovers looking for edgy, cyberpunk, and anti-design layouts. Includes striking micro-t…",
+    "image_url": "https://i.pinimg.com/736x/c3/93/b6/c393b6f688215b4c669b067dc4fcc206.jpg",
+    "local_image": "images/G01.jpg",
+    "dimensions": [
+      736,
+      981
+    ],
+    "sha256": "b465ea6fd254b94d3cbde2f3a6f802d7f2902b08c362768987867f8594e30d4c",
+    "outbound_links": [],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "CHAOS 酸绿粗体海报",
+    "category": "字体与字形",
+    "learn": "高窄粗体、斜向切口、巨字与微字反差",
+    "application": "用于壳面主编号或局部大字；不照搬整张海报内容。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G02",
+    "pin": "1131670212633554882",
+    "source_page": "https://www.pinterest.com/pin/1131670212633554882/",
+    "pin_title": "\"Brutalist Chrome Poster: Typographic Design\"! | Neo grotesk, Digital typography design, Minimal swiss design",
+    "description": "\"Brutalist Chrome Poster: Typographic Design\"! -  #Brutalist #Chrome #Design #Poster #Typographic Check more at https://foundasomething.com/2025/03/26/brutalist-chrome-poster-typographic-design-8/ | Typographic poster, Typography poster design, Graphic design ideas",
+    "image_url": "https://i.pinimg.com/736x/28/85/b9/2885b9b88248b816bcb7db2d6807bdfc.jpg",
+    "local_image": "images/G02.jpg",
+    "dimensions": [
+      736,
+      1040
+    ],
+    "sha256": "7158740dda8b146fddf3fd3e12bd6044962aa66414e5f309772f32326daaa905",
+    "outbound_links": [
+      "https://www.behance.net/gallery/226061827/Top-10-Poster-Fonts"
+    ],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "CHROME 黑白实验排版海报",
+    "category": "字体与字形",
+    "learn": "字宽对比、重复排字、切割负空间、黑白模块",
+    "application": "用于头盔侧面文字带；二维码不当作无意义装饰。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G03",
+    "pin": "706924472775505454",
+    "source_page": "https://www.pinterest.com/pin/706924472775505454/",
+    "pin_title": "BLACKBOX [Futuristic Typeface] for Graphic Design Projects | Fuentes futuristas, Tipografia geometrica, Diseño grafico gratis",
+    "description": "Explore this unique black and white typeface for your next design project. Perfect for creating futuristic and modern logos, typography, and type design. Logotipos, Tipografías, Diseño gráfico",
+    "image_url": "https://i.pinimg.com/736x/87/30/62/8730623507691bedaefdc76a87c335b6.jpg",
+    "local_image": "images/G03.jpg",
+    "dimensions": [
+      736,
+      911
+    ],
+    "sha256": "ca8712cd80b8053add7935be7ad1f966844599be02d923dbc52c8360859fb13b",
+    "outbound_links": [],
+    "author_status": "已核实原始项目作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "BLACKBOX 未来字体字样表",
+    "category": "字体与字形",
+    "learn": "统一切角、厚笔画、几何字腔、数字与标点成套",
+    "application": "用于短编号和原创字标；精确字体使用需核对项目授权。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "BLACKBOX GRAFX",
+    "original_project": "https://www.behance.net/gallery/127839743/BLACKBOX-Futuristic-Typeface"
+  },
+  {
+    "id": "G07",
+    "pin": "689191549240867717",
+    "source_page": "https://www.pinterest.com/pin/689191549240867717/",
+    "pin_title": "Minimalist Logo Design on Green Background | Alphabet logo design, Modern alphabet logo, Futuristic alphabet",
+    "description": "Check out this minimalist logo design featuring black and white symbols on a vibrant green background. Perfect for your branding needs. #LogoDesign #MinimalistDesign #Branding | Font design, Typographic, Typefaces",
+    "image_url": "https://i.pinimg.com/736x/4c/d5/3d/4cd53dddaec971dd01695c1b9af737ed.jpg",
+    "local_image": "images/G07.jpg",
+    "dimensions": [
+      704,
+      1200
+    ],
+    "sha256": "6798e6d17415fb2595e7358d6958f2e22ad51e9e21a388a2f7df34c3a408b7d6",
+    "outbound_links": [],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "荧光绿几何字形字样表",
+    "category": "字体与字形",
+    "learn": "字母共用的斜切角度、笔画粗细和负形规则",
+    "application": "用于构建原创编号字形；字体名称及作者待核实。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G08",
+    "pin": "728949889709070516",
+    "source_page": "https://www.pinterest.com/pin/728949889709070516/",
+    "pin_title": "Swiss Bauhaus Brutalist Design Mega Set of Geometric Shapes and Lines | Логотип монограмма, Графический дизайн вдохновение, Ретро футуризм",
+    "description": "Explore futuristic primitive figures, spiral, oval, and star elements in neon and white colors in this vector set. Perfect for art education resources. Векторный, Объект",
+    "image_url": "https://i.pinimg.com/736x/4f/f3/2b/4ff32b49d8f9c50f21488e16bfd3545f.jpg",
+    "local_image": "images/G08.jpg",
+    "dimensions": [
+      736,
+      1103
+    ],
+    "sha256": "fd8e53f8db9a2df95ca2a477916802cc80efec7b0a28814a77d6927356050c67",
+    "outbound_links": [
+      "https://stock.adobe.com/ru/stock-photo/id/602490912"
+    ],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "Swiss Bauhaus 几何符号组合",
+    "category": "几何符号",
+    "learn": "实心与线框对照、椭圆轨道、十字、几何负形",
+    "application": "选择一种图形母题形成家族，不把符号全部堆上壳面。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G09",
+    "pin": "58687601389357996",
+    "source_page": "https://www.pinterest.com/pin/58687601389357996/",
+    "pin_title": "Brutalist Y2K Elements | Brutalist design elements, Brutalism elements, Graphic design tips",
+    "description": "Elevate your designs with this extensive collection of custom elements. A collection of Brutalist Y2K elements, featuring over 325 unique designs. The elements include various geometric shapes, patterns, and symbols, presented in a grid layout. Graphic design adobe illustrator, 3d adobe",
+    "image_url": "https://i.pinimg.com/736x/21/ae/76/21ae765f6c7026741bcf155ead335b91.jpg",
+    "local_image": "images/G09.jpg",
+    "dimensions": [
+      735,
+      569
+    ],
+    "sha256": "e693a8111d7a1e7354a8dd98b0f8474997c5a8fc6a6a325dc92e5460925eb249",
+    "outbound_links": [
+      "https://www.behance.net/gallery/212415503/325-Brutalist-Y2K-Elements"
+    ],
+    "author_status": "已核实原始项目作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "325+ Brutalist Y2K 符号总表",
+    "category": "几何符号",
+    "learn": "箭头、方向标、模块图标和相近笔画粗细",
+    "application": "用于原创状态标记与方向提示；参考图是素材预览而非下载素材。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "Georgi Georgiev",
+    "original_project": "https://www.behance.net/gallery/212415503/325-Brutalist-Y2K-Elements"
+  },
+  {
+    "id": "G10",
+    "pin": "1007328641668376349",
+    "source_page": "https://www.pinterest.com/pin/1007328641668376349/",
+    "pin_title": "Brutalism = raw, bold, functional, and intentionally imperfect.\n\nToday, Brutalism has evolved into Digital Brutalism.\n\nI… | Graphic design style types, Typography, Anti-design",
+    "description": "20-Feb-2026 — Brutalism = raw, bold, functional, and intentionally imperfect.\n\nToday, Brutalism has evolved into Digital Brutalism.\n\nIt includes:\n-Harsh typography\n-Clashing colours\n-Raw layouts\n-Minimal polish\n-Intentional “anti-design” feel\nIt rejects perfection and polished aesthetics. Trends",
+    "image_url": "https://i.pinimg.com/736x/3d/6b/17/3d6b17fd5ab32b68a7711c14a39e2e5a.jpg",
+    "local_image": "images/G10.jpg",
+    "dimensions": [
+      736,
+      920
+    ],
+    "sha256": "0844cce80a2e0054e594fbb7501493cb0102af7c4c02d40e0cea482641bbb4c7",
+    "outbound_links": [],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "BRUTALISM 线框与条纹符号海报",
+    "category": "几何符号",
+    "learn": "条纹、棋盘格、线框曲面及密度对比",
+    "application": "用于壳面分区与局部功能标记；少选强宗教或图腾意象。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G12",
+    "pin": "1095148834406110126",
+    "source_page": "https://www.pinterest.com/pin/1095148834406110126/",
+    "pin_title": "Brutalist Vectors Collection | Фиолетовое искусство, Дизайн графа, Офисные проекты",
+    "description": "Explore Brutalism©, a collection of 400+ vector and raster images with a nostalgic brutalist theme. Carefully vectorized elements inspired by old posters, books, and brochures from the 1980s and 1990s, including classic globes, low poly wireframes, science graphs, and more. Графический дизайн, Графические постеры",
+    "image_url": "https://i.pinimg.com/736x/c3/27/c5/c327c5addf6b362946e181a837f8fb61.jpg",
+    "local_image": "images/G12.jpg",
+    "dimensions": [
+      736,
+      1356
+    ],
+    "sha256": "803809aaa03be1ddca5d494776b4a9f3589c631ceed000eb8632ab5efaa4e57d",
+    "outbound_links": [
+      "https://www.behance.net/gallery/231794605/Sticker-Aesthetic/?brutalism-400-brutalist-vecto/"
+    ],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "BRUTALISM 线框地球与曲面图集",
+    "category": "几何符号",
+    "learn": "经纬网、曲面线框、科学示意图的图形语言",
+    "application": "用于局部信息面板或皮肤图形，不套用其全部视觉元素。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G05",
+    "pin": "889320257690387580",
+    "source_page": "https://www.pinterest.com/pin/889320257690387580/",
+    "pin_title": "Industrial Label Design & Micro Typography Exploration | Design del libro, Progettazione del layout, Retrofuturismo",
+    "description": "24 set 2026 — Exploring industrial micro typography through a collection of technical labels, product markings, and information systems. This experimental graphic design project combines minimalist typography, barcode graphics, packaging design, industrial branding, and visual identity principles to create realistic product labels a…",
+    "image_url": "https://i.pinimg.com/736x/cd/9c/fd/cd9cfd9a992ea3dff72269dca5ac8c6b.jpg",
+    "local_image": "images/G05.jpg",
+    "dimensions": [
+      736,
+      981
+    ],
+    "sha256": "eb690264b77638d1875575d82e6718d499185f617dc5b0a5facb55f209a37dba",
+    "outbound_links": [
+      "https://www.instagram.com/p/Dcn8zhviJg3/?igsh=MWl2bmQ1dWo4cmI2Mw=="
+    ],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "TYPE LAB 工业产品微标签样张",
+    "category": "标签与实验排版",
+    "learn": "主编号、次级规格、细线、条码的层级与对齐",
+    "application": "用于功能标签与小字号区域；文字要有含义且与功能对应。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G14",
+    "pin": "252694229086869657",
+    "source_page": "https://www.pinterest.com/pin/252694229086869657/",
+    "pin_title": "Get This Melting Acid Text Effect Mockup for Adobe Photoshop | Melted font style effect, Liquid and drips text design, Liquify text",
+    "description": "Studio Pixelbuddha offers a high-resolution (4500 x 4500 px) melting acid text effect mockup for bold, eye-catching designs. Easily customizable, it allows users to add text via smart layers, adjust background colors, and incorporate textures. Perfect for enhancing designs with a striking visual impact.",
+    "image_url": "https://i.pinimg.com/736x/91/a7/74/91a774b170281d19da089c8f4d74688d.jpg",
+    "local_image": "images/G14.jpg",
+    "dimensions": [
+      730,
+      768
+    ],
+    "sha256": "3c9cd78b5283dcc572f0c2fa0470d151d0af0a6c85968cc11c2892fbfa542bfa",
+    "outbound_links": [
+      "https://weandthecolor.com/melting-acid-text-effect-mockup-adobe-photoshop/172903"
+    ],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "DAMAGE 熔融字体效果样张",
+    "category": "标签与实验排版",
+    "learn": "粗体向液态延展、局部变形与红黑对比",
+    "application": "适合作为个别皮肤的实验大字，不用于细小功能文字。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "Studio Pixelbuddha（Pin 描述及外链署名，未另核原始作者页）"
+  },
+  {
+    "id": "G15",
+    "pin": "763923155576247260",
+    "source_page": "https://www.pinterest.com/pin/763923155576247260/",
+    "pin_title": "BAUHAUS 93 #acidMaterialStyle #3dTypography | Thiết kế cv, Mỹ thuật, Phẳng",
+    "description": "Khám phá (và lưu lại!) các Ghim của riêng bạn trên Pinterest.",
+    "image_url": "https://i.pinimg.com/736x/da/14/0c/da140c13475db4beeaf53a923139e6a6.jpg",
+    "local_image": "images/G15.jpg",
+    "dimensions": [
+      736,
+      1041
+    ],
+    "sha256": "e937d55d686f25d176d7fc67369565157320356c98f1f919b01af52d5af1b6e7",
+    "outbound_links": [],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "BAUHAUS 93 紫色金属字体海报",
+    "category": "标签与实验排版",
+    "learn": "圆润字形、镀铬高光、紫黑材质与字号差异",
+    "application": "仅作材质和标题效果备选，不能替代清晰的基础字形。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  },
+  {
+    "id": "G16",
+    "pin": "789255903474236015",
+    "source_page": "https://www.pinterest.com/pin/789255903474236015/",
+    "pin_title": "\"TAKYON\" Industrial Brutalist Fan Graphic Poster | Японский графический дизайн, Персиковые цвета, Графический постер",
+    "description": "| Графические постеры, Плакаты",
+    "image_url": "https://i.pinimg.com/736x/b7/b6/75/b7b675c1db1de2b5f7e9d148f233ea72.jpg",
+    "local_image": "images/G16.jpg",
+    "dimensions": [
+      736,
+      1104
+    ],
+    "sha256": "fd535149bf066b362d6ffd7060dc35e88fa4e8d2682b248a84cdcf93b0b2d3d4",
+    "outbound_links": [
+      "http://linktr.ee/theletterv"
+    ],
+    "author_status": "待核实；收藏者不等于作者",
+    "retrieved": "2026-11-21",
+    "reference_object": "TAKYON 工业风同人音乐海报",
+    "category": "标签与实验排版",
+    "learn": "灰阶主体、红色短字标、编号与微型技术标记",
+    "application": "用于皮肤版式关系；不复制人像、原字标或原有角色。",
+    "role": "字体 / 符号 / 平面图形研究；非造型参考",
+    "design_status": "研究参考；具体外壳与案例应用待当次指令指定",
+    "author": "待核实"
+  }
+]

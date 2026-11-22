@@ -1,0 +1,34 @@
+{
+  "references": [
+    {
+      "direction": "01",
+      "file": "source_images/01_VISOR_CORE_original.png",
+      "sha256": "6155976592BB3944E3475E186780BF7224EDB37EF0277FC9FE3F934D836924BA",
+      "name": "VISOR CORE",
+      "source_status": "CANDIDATE_PAGE_FOUND_EXACT_IMAGE_UNVERIFIED",
+      "archive_status": "USER_CONFIRMED",
+      "candidate_source_url": "https://tobiaskwan.artstation.com/projects/O3q3ay"
+    },
+    {
+      "direction": "02",
+      "file": "source_images/02_SIDE_POD_original.png",
+      "sha256": "1F0B9A45704205954543AEBDE04F8306B34146A9679CB07B71CFEED9F3639F9D",
+      "name": "SIDE POD",
+      "source_status": "CANDIDATE_PAGE_FOUND_EXACT_IMAGE_UNVERIFIED",
+      "archive_status": "USER_CONFIRMED",
+      "candidate_source_url": "https://tobiaskwan.artstation.com/projects/8vWv1R"
+    },
+    {
+      "direction": "03",
+      "file": "source_images/03_PANEL_SHELL_original.png",
+      "sha256": "2E20E6E6431767CCB5DB165188A695231BBA218A4EABE3EC4445C6EC192EE3A8",
+      "name": "PANEL SHELL",
+      "source_status": "CANDIDATE_PAGE_FOUND_EXACT_IMAGE_UNVERIFIED",
+      "archive_status": "USER_CONFIRMED",
+      "candidate_source_url": "https://patrickbloom.artstation.com/projects/P4a6gr"
+    }
+  ],
+  "note": "旧七图及分析图流程已停用；不要使用旧同步脚本覆盖此清单。",
+  "schema_version": 2,
+  "updated": "2026-11-19"
+}

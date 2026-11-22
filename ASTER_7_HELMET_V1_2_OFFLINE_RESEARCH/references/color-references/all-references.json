@@ -1,0 +1,756 @@
+[
+  {
+    "id": "C01",
+    "title": "OP-1 Field",
+    "creator": "teenage engineering",
+    "source_page": "https://teenage.engineering/products/op-1",
+    "image_url": "https://assets.teenage.engineering/_img/627ca7d80e44b900044f3c06_2048.png",
+    "local_image": "images/C01.png",
+    "dimensions": [
+      2048,
+      3375
+    ],
+    "sha256": "25520e607cc4d8c1b58008396790f818bbb6c24d28538522433335b9fcde1d00",
+    "principle": "浅色中性底＋少量功能色",
+    "note": "银灰机身、深色控制区与微量橙红点色；适合低饱和工业产品。摄影明暗不等于固有色。",
+    "sampled_colors": [
+      {
+        "hex": "#FFFFFF",
+        "image_area_pct": 70.62
+      },
+      {
+        "hex": "#393433",
+        "image_area_pct": 0.97
+      },
+      {
+        "hex": "#060606",
+        "image_area_pct": 0.96
+      },
+      {
+        "hex": "#575453",
+        "image_area_pct": 0.93
+      },
+      {
+        "hex": "#86807D",
+        "image_area_pct": 0.89
+      },
+      {
+        "hex": "#A8A09D",
+        "image_area_pct": 0.6
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。",
+    "reference_object": "OP-1 Field"
+  },
+  {
+    "id": "C04",
+    "title": "Syro 包装",
+    "creator": "Aphex Twin / The Designers Republic",
+    "source_page": "https://sound-merch.com.au/products/aphex-twin-syro-vinyl",
+    "image_url": "https://sound-merch.com.au/cdn/shop/products/AphexTwin_Syro_1024x1024.png?v=1614570149",
+    "local_image": "images/C04.png",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "sha256": "3f3a1e2ef8fb5ad67a824ca0154a80772f421552918949b1fae02c96cf6ed7f3",
+    "principle": "黑白信息底＋单一荧光色",
+    "note": "重点借鉴高密度黑字与大面积白底，局部绿色建立识别焦点。来源为唱片零售商。",
+    "sampled_colors": [
+      {
+        "hex": "#FFFFFF",
+        "image_area_pct": 65.0
+      },
+      {
+        "hex": "#171717",
+        "image_area_pct": 1.01
+      },
+      {
+        "hex": "#E0F38A",
+        "image_area_pct": 0.62
+      },
+      {
+        "hex": "#DDDEDA",
+        "image_area_pct": 0.9
+      },
+      {
+        "hex": "#313131",
+        "image_area_pct": 0.84
+      },
+      {
+        "hex": "#666666",
+        "image_area_pct": 0.69
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。",
+    "reference_object": "Syro 包装"
+  },
+  {
+    "id": "C05",
+    "title": "Musica Viva 蓝绿海报",
+    "creator": "Josef Müller-Brockmann",
+    "source_page": "https://awarded-poster.com/en/shop/view_product/Muller-Brockmann-Josef-musica-viva-apg-001569",
+    "image_url": "https://awarded-poster.com/images/products/1969/poster_apg_001569_z.jpg",
+    "local_image": "images/C05.png",
+    "dimensions": [
+      560,
+      800
+    ],
+    "sha256": "d6de0b25a8f1d25b39dad8bad5dae47048a2c7fe6677b507126674fb44706f02",
+    "principle": "有限色板与大色面秩序",
+    "note": "重点借鉴蓝底、绿色标题、浅色小字；蓝绿组合适合氛围与标题，正文需另验对比度。来源为海报商。",
+    "sampled_colors": [
+      {
+        "hex": "#8F9399",
+        "image_area_pct": 1.17
+      },
+      {
+        "hex": "#362C85",
+        "image_area_pct": 20.26
+      },
+      {
+        "hex": "#73B744",
+        "image_area_pct": 1.77
+      },
+      {
+        "hex": "#525280",
+        "image_area_pct": 1.05
+      },
+      {
+        "hex": "#AEBE98",
+        "image_area_pct": 1.28
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。",
+    "reference_object": "Musica Viva 蓝绿海报"
+  },
+  {
+    "id": "C06",
+    "title": "Mirror’s Edge 屋顶场景",
+    "creator": "DICE / EA",
+    "source_page": "https://www.gamedeveloper.com/design/ten-principles-of-good-level-design-part-1-",
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte003f510e69006c5/650e7cae4d73ae0bbc5582c3/mirrors_edge_2.jpg/?disable=upscale&fit=crop&height=630&width=1200",
+    "local_image": "images/C06.png",
+    "dimensions": [
+      1200,
+      630
+    ],
+    "sha256": "cff88a5f62d3d53c28932671f2e4f7c8cd011c67aeacc7ab6df46f5a94cd0008",
+    "principle": "中性空间＋红色视觉引导",
+    "note": "重点借鉴白灰建筑、冷色阴影与局部红色路径。截图中的阴影蓝不等于物体固有色。来源为关卡设计文章。",
+    "sampled_colors": [
+      {
+        "hex": "#F2F6FA",
+        "image_area_pct": 2.39
+      },
+      {
+        "hex": "#B2BAD4",
+        "image_area_pct": 1.65
+      },
+      {
+        "hex": "#06178A",
+        "image_area_pct": 2.67
+      },
+      {
+        "hex": "#C5242B",
+        "image_area_pct": 1.99
+      },
+      {
+        "hex": "#101958",
+        "image_area_pct": 1.81
+      },
+      {
+        "hex": "#5769B8",
+        "image_area_pct": 3.35
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。",
+    "reference_object": "Mirror’s Edge 屋顶场景"
+  },
+  {
+    "id": "C07",
+    "title": "Braun ET66 黑色计算器",
+    "creator": "Braun；Dieter Rams / Dietrich Lubs",
+    "source_page": "https://www.unisonhome.com/braun-black-calculator.html",
+    "image_url": "https://www.unisonhome.com/media/catalog/product/b/r/Braun_Black_Calculator_43.jpg",
+    "local_image": "images/C07.png",
+    "dimensions": [
+      1400,
+      1400
+    ],
+    "sha256": "b826e8537d9532dad330cce638cc21d4b9074fd9402f23326ec5df2292bee464",
+    "principle": "深色中性底＋功能色编码",
+    "note": "重点借鉴黑灰键盘、分组功能色与单个高亮操作键。来源为产品零售商。",
+    "sampled_colors": [
+      {
+        "hex": "#EFEFEF",
+        "image_area_pct": 73.34
+      },
+      {
+        "hex": "#CECECE",
+        "image_area_pct": 1.26
+      },
+      {
+        "hex": "#432D2B",
+        "image_area_pct": 0.13
+      },
+      {
+        "hex": "#828B77",
+        "image_area_pct": 1.22
+      },
+      {
+        "hex": "#181A1C",
+        "image_area_pct": 0.58
+      },
+      {
+        "hex": "#5C5855",
+        "image_area_pct": 0.57
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。",
+    "reference_object": "Braun ET66 黑色计算器"
+  },
+  {
+    "id": "C08",
+    "title": "McLaren MCL38",
+    "creator": "McLaren Racing",
+    "source_page": "https://www.mclaren.com/racing/formula-1/2024/mclaren-formula-1-team-reveals-the-mcl38/",
+    "image_url": "https://images.ctfassets.net/gy95mqeyjg28/5vj7aDgagOBshMGDGhSJGF/d8ba9c444e9275d8331dc849c1892591/Car-Reveal-2024-Article-Cover-Square.jpg",
+    "local_image": "images/C08.png",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "efaff6d0029c465275183de31eac24b97d05c05c69dea38d044a85c2ed5e25b9",
+    "principle": "品牌主色与深色结构",
+    "note": "重点借鉴橙色涂装沿功能曲面分布，以及亮色与碳纤维暗面的关系。 取车体橙黑关系；背景米金色不作为车身目标色。",
+    "sampled_colors": [
+      {
+        "hex": "#585C58",
+        "image_area_pct": 3.8
+      },
+      {
+        "hex": "#91908A",
+        "image_area_pct": 3.27
+      },
+      {
+        "hex": "#C99862",
+        "image_area_pct": 4.26
+      },
+      {
+        "hex": "#714A2B",
+        "image_area_pct": 2.03
+      },
+      {
+        "hex": "#BA7136",
+        "image_area_pct": 1.36
+      },
+      {
+        "hex": "#DDB380",
+        "image_area_pct": 2.36
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。",
+    "reference_object": "McLaren MCL38"
+  },
+  {
+    "id": "C09",
+    "title": "OB-4 Orange",
+    "creator": "teenage engineering",
+    "source_page": "https://nightlife-electronics.com/products/teenage-engineering-ob-4-orange",
+    "image_url": "https://nightlife-electronics.com/cdn/shop/files/TeenageEngineeringOB-4orange_900x.jpg?v=1692913171",
+    "local_image": "images/C09.png",
+    "dimensions": [
+      900,
+      900
+    ],
+    "sha256": "6e23d7737f675deb3143efdd774a67f4b63905ce15cf76693c19b7082abeee41",
+    "principle": "橙色大色面＋深色结构",
+    "note": "与 C03 对比同一造型的不同色彩气质。来源为音频设备零售商。",
+    "sampled_colors": [
+      {
+        "hex": "#FFFFFF",
+        "image_area_pct": 52.37
+      },
+      {
+        "hex": "#2B2A2A",
+        "image_area_pct": 1.97
+      },
+      {
+        "hex": "#EB4201",
+        "image_area_pct": 1.9
+      },
+      {
+        "hex": "#F46725",
+        "image_area_pct": 1.53
+      },
+      {
+        "hex": "#5E2B1C",
+        "image_area_pct": 1.18
+      },
+      {
+        "hex": "#B84315",
+        "image_area_pct": 0.31
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。",
+    "reference_object": "OB-4 Orange"
+  },
+  {
+    "id": "B01",
+    "title": "Fan Club 跨年派对海报",
+    "reference_object": "Fan Club 跨年派对海报",
+    "creator": "Clayton Ciolac",
+    "source_page": "https://www.pinterest.com/pin/572590540127397989/",
+    "pinterest_pin": "https://www.pinterest.com/pin/572590540127397989/",
+    "original_project": "https://www.behance.net/gallery/52879589/Fan-Club",
+    "image_url": "https://i.pinimg.com/originals/8a/71/10/8a711045501236096e3b384c44e61502.png",
+    "local_image": "images/B01.png",
+    "dimensions": [
+      690,
+      469
+    ],
+    "principle": "绿黑双色；色块与反白字跨系列复用。",
+    "note": "绿黑双色；色块与反白字跨系列复用。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#000000",
+        "image_area_pct": 56.43
+      },
+      {
+        "hex": "#E2E2E2",
+        "image_area_pct": 1.76
+      },
+      {
+        "hex": "#61AD6F",
+        "image_area_pct": 2.83
+      },
+      {
+        "hex": "#39553E",
+        "image_area_pct": 1.85
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B02",
+    "title": "Brutalismo 佛罗伦萨建筑海报",
+    "reference_object": "Brutalismo 佛罗伦萨建筑海报",
+    "creator": "Peter Chadwick",
+    "source_page": "https://fr.pinterest.com/pin/482800022547614701/",
+    "pinterest_pin": "https://fr.pinterest.com/pin/482800022547614701/",
+    "original_project": "",
+    "image_url": "https://i.pinimg.com/736x/d7/4e/58/d74e58261b4cf59f5db2688a5347de6a.jpg",
+    "local_image": "images/B02.png",
+    "dimensions": [
+      736,
+      736
+    ],
+    "principle": "灰阶建筑＋黄紫图形；材质底与图形色分层。",
+    "note": "灰阶建筑＋黄紫图形；材质底与图形色分层。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#FFFFFF",
+        "image_area_pct": 5.88
+      },
+      {
+        "hex": "#817D78",
+        "image_area_pct": 4.37
+      },
+      {
+        "hex": "#F1E113",
+        "image_area_pct": 3.56
+      },
+      {
+        "hex": "#4B442D",
+        "image_area_pct": 2.52
+      },
+      {
+        "hex": "#C8C1B4",
+        "image_area_pct": 2.21
+      },
+      {
+        "hex": "#080306",
+        "image_area_pct": 1.52
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B03",
+    "title": "Difficult Hunt 双联海报",
+    "reference_object": "Difficult Hunt 双联海报",
+    "creator": "Bartosz Wardaszko",
+    "source_page": "https://www.behance.net/gallery/192021383/Brutalism-poster-project",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/6d21bd192021383.65d51c2e53cca.png",
+    "local_image": "images/B03.png",
+    "dimensions": [
+      1400,
+      933
+    ],
+    "principle": "酸绿底＋黑色文字和纹理；强调色扩展为主色面。",
+    "note": "酸绿底＋黑色文字和纹理；强调色扩展为主色面。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#656464",
+        "image_area_pct": 3.62
+      },
+      {
+        "hex": "#1A1A1A",
+        "image_area_pct": 3.19
+      },
+      {
+        "hex": "#1BC217",
+        "image_area_pct": 3.25
+      },
+      {
+        "hex": "#A29E9D",
+        "image_area_pct": 2.8
+      },
+      {
+        "hex": "#DEDBD8",
+        "image_area_pct": 1.8
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B04",
+    "title": "Acid Brutalism 系列概念海报",
+    "reference_object": "Acid Brutalism 系列概念海报",
+    "creator": "Ovung Shitiri",
+    "source_page": "https://www.behance.net/gallery/156993233/Acid-Brutalism-V1",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0b6526156993233.6371440311a47.png",
+    "local_image": "images/B04.png",
+    "dimensions": [
+      1400,
+      1050
+    ],
+    "principle": "黑白信息层＋荧光绿色面；建立模块层级。",
+    "note": "黑白信息层＋荧光绿色面；建立模块层级。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#40403E",
+        "image_area_pct": 2.85
+      },
+      {
+        "hex": "#FFFFFF",
+        "image_area_pct": 2.53
+      },
+      {
+        "hex": "#ADF369",
+        "image_area_pct": 3.92
+      },
+      {
+        "hex": "#808E71",
+        "image_area_pct": 2.62
+      },
+      {
+        "hex": "#050406",
+        "image_area_pct": 1.67
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B05",
+    "title": "Cyber Brutalism 机械头海报",
+    "reference_object": "Cyber Brutalism 机械头海报",
+    "creator": "BLXDESIGNS",
+    "source_page": "https://dribbble.com/shots/21750356-CYBER-BRUTALISM-POSTER-DESIGN",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://cdn.dribbble.com/userupload/7836612/file/original-1c75c4e689f97f4aaea0f9a9fa43e4a0.jpg",
+    "local_image": "images/B05.png",
+    "dimensions": [
+      3000,
+      3000
+    ],
+    "principle": "黑底＋灰阶机械主体＋荧光绿文字图标。",
+    "note": "黑底＋灰阶机械主体＋荧光绿文字图标。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#000000",
+        "image_area_pct": 54.75
+      },
+      {
+        "hex": "#989995",
+        "image_area_pct": 2.22
+      },
+      {
+        "hex": "#9DDD2C",
+        "image_area_pct": 1.55
+      },
+      {
+        "hex": "#FFFFFF",
+        "image_area_pct": 1.84
+      },
+      {
+        "hex": "#4E5246",
+        "image_area_pct": 1.3
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B06",
+    "title": "Brutal Design Group 粉绿版式",
+    "reference_object": "Brutal Design Group 粉绿版式",
+    "creator": "Immersive Studios",
+    "source_page": "https://dribbble.com/shots/17975089-BRUTALISM-Concept-Design",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://cdn.dribbble.com/userupload/36487440/file/original-29b5594433166ac03f47082ab1001ddc.png",
+    "local_image": "images/B06.png",
+    "dimensions": [
+      1920,
+      1440
+    ],
+    "principle": "粉绿大色块＋黑色结构；适合活泼的新粗野主义。",
+    "note": "粉绿大色块＋黑色结构；适合活泼的新粗野主义。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#000000",
+        "image_area_pct": 33.72
+      },
+      {
+        "hex": "#FF009B",
+        "image_area_pct": 14.67
+      },
+      {
+        "hex": "#BAF365",
+        "image_area_pct": 12.41
+      },
+      {
+        "hex": "#899230",
+        "image_area_pct": 1.72
+      },
+      {
+        "hex": "#40491A",
+        "image_area_pct": 0.89
+      },
+      {
+        "hex": "#7A004A",
+        "image_area_pct": 0.26
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B07",
+    "title": "New Brutalism 建筑专题界面",
+    "reference_object": "New Brutalism 建筑专题界面",
+    "creator": "Sasha Tomchuk",
+    "source_page": "https://dribbble.com/shots/15829537-New-Brutalism",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://cdn.dribbble.com/userupload/40432486/file/original-ac2688f499ce523a91f038a9ed3f857e.jpeg",
+    "local_image": "images/B07.png",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "principle": "红黄蓝分区＋黑白照片；多主色依赖面积与模块秩序。",
+    "note": "红黄蓝分区＋黑白照片；多主色依赖面积与模块秩序。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#0F0F0F",
+        "image_area_pct": 40.99
+      },
+      {
+        "hex": "#EF3C25",
+        "image_area_pct": 3.77
+      },
+      {
+        "hex": "#054284",
+        "image_area_pct": 2.66
+      },
+      {
+        "hex": "#BA8B54",
+        "image_area_pct": 0.8
+      },
+      {
+        "hex": "#DFCAAC",
+        "image_area_pct": 1.98
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B08",
+    "title": "Exchange 新世界系统海报",
+    "reference_object": "Exchange 新世界系统海报",
+    "creator": "Oziboy",
+    "source_page": "https://www.behance.net/gallery/174273217/Brutalism-Poster-Design-Series-I",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/bfe400174273217.649f08288aa54.jpg",
+    "local_image": "images/B08.png",
+    "dimensions": [
+      1920,
+      2400
+    ],
+    "principle": "橙色统一底面＋黑色文字线框；单一有彩色。",
+    "note": "橙色统一底面＋黑色文字线框；单一有彩色。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#050606",
+        "image_area_pct": 3.81
+      },
+      {
+        "hex": "#D25331",
+        "image_area_pct": 3.56
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B09",
+    "title": "UTEC 建筑 Brutalism 海报",
+    "reference_object": "UTEC 建筑 Brutalism 海报",
+    "creator": "VAN Masha",
+    "source_page": "https://dribbble.com/shots/25443526-Brutalism-Poster-1",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://cdn.dribbble.com/userupload/18337171/file/original-d998884acca00ddf29c5ac4abc2bf483.jpg",
+    "local_image": "images/B09.png",
+    "dimensions": [
+      2480,
+      3508
+    ],
+    "principle": "灰阶建筑与黑字＋局部橙色圆形；颜色面积克制。",
+    "note": "灰阶建筑与黑字＋局部橙色圆形；颜色面积克制。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#000000",
+        "image_area_pct": 19.53
+      },
+      {
+        "hex": "#E9E9E9",
+        "image_area_pct": 7.59
+      },
+      {
+        "hex": "#E68136",
+        "image_area_pct": 1.83
+      },
+      {
+        "hex": "#656465",
+        "image_area_pct": 3.25
+      },
+      {
+        "hex": "#A4A3A4",
+        "image_area_pct": 2.56
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B11",
+    "title": "I Love Acid 2024 巡演海报",
+    "reference_object": "I Love Acid 2024 巡演海报",
+    "creator": "I Love Acid / Balkan Vinyl；设计者未核实",
+    "source_page": "https://balkanvinyl.bandcamp.com/merch/i-love-acid-2024-tour-poster",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://f4.bcbits.com/img/0038272496_10.jpg",
+    "local_image": "images/B11.png",
+    "dimensions": [
+      900,
+      1200
+    ],
+    "principle": "紫色底＋黄绿信息；酸性音乐视觉补充，非纯粗野主义。",
+    "note": "紫色底＋黄绿信息；酸性音乐视觉补充，非纯粗野主义。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#323535",
+        "image_area_pct": 4.24
+      },
+      {
+        "hex": "#7F407F",
+        "image_area_pct": 3.49
+      },
+      {
+        "hex": "#B99A7C",
+        "image_area_pct": 2.44
+      },
+      {
+        "hex": "#FCFEBD",
+        "image_area_pct": 1.82
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  },
+  {
+    "id": "B12",
+    "title": "LEVITATION 2022 乐队演出海报",
+    "reference_object": "LEVITATION 2022 乐队演出海报",
+    "creator": "WEIRD BEARD 72",
+    "source_page": "https://levitation.fm/products/psychedelic-porn-crumpets-by-wb72",
+    "pinterest_pin": "",
+    "original_project": "",
+    "image_url": "https://levitation.fm/cdn/shop/files/psychedelic-porn-crumpets-poster-by-wb72-799817_1285x.jpg?v=1735925075",
+    "local_image": "images/B12.png",
+    "dimensions": [
+      1285,
+      1800
+    ],
+    "principle": "绿紫对撞＋深色轮廓；迷幻音乐视觉补充，非纯粗野主义。",
+    "note": "绿紫对撞＋深色轮廓；迷幻音乐视觉补充，非纯粗野主义。",
+    "retrieved": "2026-11-20",
+    "attribution_note": "中文名为描述性参考名称；标题及作者按所列项目资料记录，非全部为官方委托。",
+    "sampled_colors": [
+      {
+        "hex": "#EEEEEE",
+        "image_area_pct": 6.54
+      },
+      {
+        "hex": "#7B9483",
+        "image_area_pct": 2.4
+      },
+      {
+        "hex": "#19F91F",
+        "image_area_pct": 13.28
+      },
+      {
+        "hex": "#EB00FE",
+        "image_area_pct": 2.28
+      },
+      {
+        "hex": "#A741B6",
+        "image_area_pct": 1.43
+      }
+    ],
+    "sampling_note": "从整张图片量化后选择中性色与有彩色代表；每个百分比仅为该量化色簇占比，不是设计目标比例。摄影色值不是品牌标准色。"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "R01",
+    "name": "Marathon Destroyer",
+    "source_credit": "Patrick Bloom 早期探索；Dexerto 基础外观截图",
+    "official_or_artist_page": "https://patrickbloom.artstation.com/projects/P4a6gr",
+    "display_page": "https://www.dexerto.com/wikis/marathon/runners/destroyer/",
+    "image_candidates": [
+      "https://media.dexerto.com/media/marathon%20destroyer%20runner.jpg?format=auto&quality=75&width=768"
+    ],
+    "page_fallbacks": [
+      "https://patrickbloom.artstation.com/projects/P4a6gr",
+      "https://www.dexerto.com/wikis/marathon/runners/destroyer/"
+    ],
+    "learn": "主体包覆 + 侧向模块 + 前脸几何比例",
+    "evidence_boundary": "视觉示意不代表官方概念草图，也不能证明头盔在游戏模型中可拆卸",
+    "image_role": "game_reference",
+    "local_relative_path": "references/source_images/R01_destroyer_SOURCE.jpg",
+    "analysis_diagram": "references/analysis_diagrams/R01_destroyer_diagram.png",
+    "status": "MISSING",
+    "reviewer": null,
+    "review_note": "",
+    "download_origin": null,
+    "sha256": null,
+    "pixel_size": null,
+    "retrieved_at": null,
+    "license_note": "版权归原作者/品牌；仅限课程内部研究。需核对平台条款，勿将 NoAI 作品未经许可作为生成输入。"
+  },
+  {
+    "id": "R02",
+    "name": "Marathon Recon",
+    "source_credit": "Tobias Kwan 概念支持；Dexerto 基础外观截图",
+    "official_or_artist_page": "https://tobiaskwan.artstation.com/projects/O3q3ay",
+    "display_page": "https://www.dexerto.com/wikis/marathon/runners/recon/",
+    "image_candidates": [
+      "https://media.dexerto.com/media/maratjon%20recon%20runner%20shell.jpg?format=auto&quality=75&width=768"
+    ],
+    "page_fallbacks": [
+      "https://tobiaskwan.artstation.com/projects/O3q3ay",
+      "https://www.dexerto.com/wikis/marathon/runners/recon/"
+    ],
+    "learn": "面罩的视觉权重与顶部、侧部模块的层级",
+    "evidence_boundary": "视觉示意不代表官方草图；Tobias 不应被误写为唯一原型作者",
+    "image_role": "game_reference",
+    "local_relative_path": "references/source_images/R02_recon_SOURCE.jpg",
+    "analysis_diagram": "references/analysis_diagrams/R02_recon_diagram.png",
+    "status": "MISSING",
+    "reviewer": null,
+    "review_note": "",
+    "download_origin": null,
+    "sha256": null,
+    "pixel_size": null,
+    "retrieved_at": null,
+    "license_note": "版权归原作者/品牌；仅限课程内部研究。需核对平台条款，勿将 NoAI 作品未经许可作为生成输入。"
+  },
+  {
+    "id": "R03",
+    "name": "Marathon Rook",
+    "source_credit": "Tobias Kwan 概念图；Dexerto 基础外观截图",
+    "official_or_artist_page": "https://tobiaskwan.artstation.com/projects/0l1NwV",
+    "display_page": "https://www.dexerto.com/wikis/marathon/runners/rook/",
+    "image_candidates": [
+      "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/06/tobias-kwan-tk-rook-01.jpg"
+    ],
+    "page_fallbacks": [
+      "https://tobiaskwan.artstation.com/projects/0l1NwV",
+      "https://www.dexerto.com/wikis/marathon/runners/rook/"
+    ],
+    "learn": "圆润主壳与方正局部窗口的几何反差",
+    "evidence_boundary": "仅学习实体体块；不得将面部十字符号作为原创造型",
+    "image_role": "game_reference",
+    "local_relative_path": "references/source_images/R03_rook_SOURCE.jpg",
+    "analysis_diagram": "references/analysis_diagrams/R03_rook_diagram.png",
+    "status": "MISSING",
+    "reviewer": null,
+    "review_note": "",
+    "download_origin": null,
+    "sha256": null,
+    "pixel_size": null,
+    "retrieved_at": null,
+    "license_note": "版权归原作者/品牌；仅限课程内部研究。需核对平台条款，勿将 NoAI 作品未经许可作为生成输入。"
+  },
+  {
+    "id": "R04",
+    "name": "JVC Videosphere (1970)",
+    "source_credit": "MoMA 馆藏，日本 JVC Videosphere",
+    "official_or_artist_page": "https://www.moma.org/collection/works/292710",
+    "display_page": "https://www.moma.org/collection/works/292710",
+    "image_candidates": [
+      "https://www.moma.org/media/W1siZiIsIjU0MjIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f65380f8b746794b"
+    ],
+    "page_fallbacks": [
+      "https://www.moma.org/collection/works/292710"
+    ],
+    "learn": "主壳整体性与前部较小窗口的差异",
+    "evidence_boundary": "电视不是头盔，借形体构成而不是照搬外观",
+    "image_role": "real_product_reference",
+    "local_relative_path": "references/source_images/R04_jvc_videosphere_SOURCE.jpg",
+    "analysis_diagram": "references/analysis_diagrams/R04_jvc_videosphere_diagram.png",
+    "status": "MISSING",
+    "reviewer": null,
+    "review_note": "",
+    "download_origin": null,
+    "sha256": null,
+    "pixel_size": null,
+    "retrieved_at": null,
+    "license_note": "版权归原作者/品牌；仅限课程内部研究。需核对平台条款，勿将 NoAI 作品未经许可作为生成输入。"
+  },
+  {
+    "id": "R05",
+    "name": "DJI RS 4 Pro",
+    "source_credit": "DJI 官方产品；Calumet 产品照片",
+    "official_or_artist_page": "https://www.dji.com/rs-4-pro",
+    "display_page": "https://www.calumet.de/product/dji-rs-4-pro",
+    "image_candidates": [
+      "https://www.calumet.de/media/78/fc/bd/1712584971/DJIRS4PROCOMBO_10.jpg?ts=1712584971"
+    ],
+    "page_fallbacks": [
+      "https://www.dji.com/rs-4-pro",
+      "https://www.calumet.de/product/dji-rs-4-pro"
+    ],
+    "learn": "少量硬构件形成稳定的贯通负空间",
+    "evidence_boundary": "支臂不是头盔安全结构，不照搬器械构造",
+    "image_role": "real_product_reference",
+    "local_relative_path": "references/source_images/R05_dji_rs4pro_SOURCE.jpg",
+    "analysis_diagram": "references/analysis_diagrams/R05_dji_rs4pro_diagram.png",
+    "status": "MISSING",
+    "reviewer": null,
+    "review_note": "",
+    "download_origin": null,
+    "sha256": null,
+    "pixel_size": null,
+    "retrieved_at": null,
+    "license_note": "版权归原作者/品牌；仅限课程内部研究。需核对平台条款，勿将 NoAI 作品未经许可作为生成输入。"
+  },
+  {
+    "id": "R06",
+    "name": "teenage engineering computer–1",
+    "source_credit": "teenage engineering 官方产品；Adafruit 图片",
+    "official_or_artist_page": "https://teenage.engineering/products/computer-1",
+    "display_page": "https://blog.adafruit.com/2021/10/28/teenage-engineering-computer-1-case/",
+    "image_candidates": [
+      "https://cdn-blog.adafruit.com/uploads/2021/10/c1-0-768x576.png"
+    ],
+    "page_fallbacks": [
+      "https://teenage.engineering/press/computer-1",
+      "https://teenage.engineering/products/computer-1",
+      "https://blog.adafruit.com/2021/10/28/teenage-engineering-computer-1-case/"
+    ],
+    "learn": "少量大板构成产品形态，避免碎片化装甲",
+    "evidence_boundary": "借鉴体块秩序，不复制机箱",
+    "image_role": "real_product_reference",
+    "local_relative_path": "references/source_images/R06_computer1_SOURCE.jpg",
+    "analysis_diagram": "references/analysis_diagrams/R06_computer1_diagram.png",
+    "status": "MISSING",
+    "reviewer": null,
+    "review_note": "",
+    "download_origin": null,
+    "sha256": null,
+    "pixel_size": null,
+    "retrieved_at": null,
+    "license_note": "版权归原作者/品牌；仅限课程内部研究。需核对平台条款，勿将 NoAI 作品未经许可作为生成输入。"
+  },
+  {
+    "id": "R07",
+    "name": "Dyson Zone",
+    "source_credit": "Dyson 官方产品摄影",
+    "official_or_artist_page": "https://www.dyson.co.nz/newsroom/dyson-zone/update",
+    "display_page": "https://www.dyson.co.nz/newsroom/dyson-zone/update",
+    "image_candidates": [
+      "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petite-global/apac-newsroom/au/dyson-zone-newsroom-image-man-wearing-headphones.jpg?$responsive$=&cropPathE=desktop&fit=stretch%2C1&wid=620"
+    ],
+    "page_fallbacks": [
+      "https://www.dyson.co.nz/newsroom/dyson-zone/update"
+    ],
+    "learn": "侧部模块与面前独立构件之间的几何空间关系",
+    "evidence_boundary": "产品本身是耳机不是头盔；只学习体量层级",
+    "image_role": "real_product_reference",
+    "local_relative_path": "references/source_images/R07_dyson_zone_SOURCE.jpg",
+    "analysis_diagram": "references/analysis_diagrams/R07_dyson_zone_diagram.png",
+    "status": "MISSING",
+    "reviewer": null,
+    "review_note": "",
+    "download_origin": null,
+    "sha256": null,
+    "pixel_size": null,
+    "retrieved_at": null,
+    "license_note": "版权归原作者/品牌；仅限课程内部研究。需核对平台条款，勿将 NoAI 作品未经许可作为生成输入。"
+  }
+]

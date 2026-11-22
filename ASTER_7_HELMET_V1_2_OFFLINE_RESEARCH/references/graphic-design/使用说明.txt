@@ -1,0 +1,8 @@
+2026-11-21：在创作者 Chrome 已登录 Pinterest 搜索并筛选。
+关键词：brutalist typography；brutalist symbols graphic design；industrial typography symbols；acid graphics typography。
+12 张参考：字体字形 4 张、几何符号 4 张、工业标签与实验排版 4 张。
+先看 graphic-design-board.jpg 或 board-01/02/03.jpg，再按 ID 查 source-index.csv。
+JSON 同时保留 Pin 原标题、描述、外链、图片 URL、分辨率与下载字节 SHA-256。
+中文名为描述性作品名称，不能据此推断为官方原名；收藏者不视为作者。
+图片仅作为视觉研究素材，没有安装字体或购买素材，也未自动写入各外壳正式生成约束。
+学习顺序建议：G03 字形规则、G05 信息层级、G09 符号家族、G01 大字气质。

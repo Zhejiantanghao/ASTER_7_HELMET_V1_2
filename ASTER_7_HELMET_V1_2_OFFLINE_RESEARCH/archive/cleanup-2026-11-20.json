@@ -1,0 +1,845 @@
+{
+  "date": "2026-11-20",
+  "root": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH",
+  "deleted": [
+    {
+      "path": "outputs\\color-references\\build.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 5547
+    },
+    {
+      "path": "outputs\\color-references\\discover.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 817
+    },
+    {
+      "path": "outputs\\color-references\\expand.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 4774
+    },
+    {
+      "path": "outputs\\color-references\\pinterest-discover.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 557
+    },
+    {
+      "path": "outputs\\color-references\\pinterest-search.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 451
+    },
+    {
+      "path": "outputs\\color-references\\prepare-render.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 2492
+    },
+    {
+      "path": "outputs\\color-references\\refine.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 4142
+    },
+    {
+      "path": "outputs\\color-references\\render-brutalist.py",
+      "reason": "临时搜图、下载或一次性拼图脚本，参考图片与完整清单已保存",
+      "bytes": 4134
+    },
+    {
+      "path": "outputs\\color-references\\pinterest-pin.html",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 1350094
+    },
+    {
+      "path": "outputs\\color-references\\pinterest-search.html",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 1319502
+    },
+    {
+      "path": "outputs\\color-references\\references.json",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 9828
+    },
+    {
+      "path": "outputs\\color-references\\source-index.csv",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 3232
+    },
+    {
+      "path": "outputs\\color-references\\brutalist-references.json",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 16003
+    },
+    {
+      "path": "outputs\\color-references\\brutalist-source-index.csv",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 4445
+    },
+    {
+      "path": "outputs\\color-references\\images\\C02.png",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 7857105
+    },
+    {
+      "path": "outputs\\color-references\\images\\C03.png",
+      "reason": "抓取缓存、已合并的分批清单或未入选的下载图片",
+      "bytes": 467993
+    },
+    {
+      "path": "transcription\\sample.wav",
+      "reason": "转写环境测试或一次性模型下载文件",
+      "bytes": 960078
+    },
+    {
+      "path": "transcription\\sample.txt",
+      "reason": "转写环境测试或一次性模型下载文件",
+      "bytes": 0
+    },
+    {
+      "path": "transcription\\sample.srt",
+      "reason": "转写环境测试或一次性模型下载文件",
+      "bytes": 0
+    },
+    {
+      "path": "transcription\\sample.json",
+      "reason": "转写环境测试或一次性模型下载文件",
+      "bytes": 43
+    },
+    {
+      "path": "transcription\\download_model.py",
+      "reason": "转写环境测试或一次性模型下载文件",
+      "bytes": 1005
+    },
+    {
+      "path": "2026-11-19.md",
+      "reason": "空文件、过期说明或已有权威入口覆盖的重复入口",
+      "bytes": 0
+    },
+    {
+      "path": "README_先看这个.txt",
+      "reason": "空文件、过期说明或已有权威入口覆盖的重复入口",
+      "bytes": 394
+    },
+    {
+      "path": "research.md",
+      "reason": "空文件、过期说明或已有权威入口覆盖的重复入口",
+      "bytes": 311
+    },
+    {
+      "path": "FINAL_PRODUCTS_OVERVIEW.md",
+      "reason": "空文件、过期说明或已有权威入口覆盖的重复入口",
+      "bytes": 1446
+    },
+    {
+      "path": "outputs\\side-pod\\diagnostics\\layout-test-discarded.png",
+      "reason": "明确废弃的排版调试图；正式图与迭代图保留",
+      "bytes": 72132
+    },
+    {
+      "path": "sites\\helmet-atlas-deploy.tar.gz",
+      "reason": "可从保留的网站源码重建的部署压缩包",
+      "bytes": 9123
+    },
+    {
+      "path": "outputs\\side-pod\\final-products\\FINAL-02-01_STUDY-09_BRIDGE-FRAME.png",
+      "reason": "与 final-products/images 正式成品逐字节相同的冗余副本",
+      "bytes": 2319741
+    },
+    {
+      "path": "outputs\\side-pod\\final-products\\FINAL-02-02_STUDY-11_PETROL-MAGENTA.png",
+      "reason": "与 final-products/images 正式成品逐字节相同的冗余副本",
+      "bytes": 2375927
+    },
+    {
+      "path": "outputs\\side-pod\\final-products\\FINAL-02-03_STUDY-10_UV-ACID.png",
+      "reason": "与 final-products/images 正式成品逐字节相同的冗余副本",
+      "bytes": 2336372
+    },
+    {
+      "path": "references\\原图获取索引.md",
+      "reason": "只指向当前规则的重复占位说明；原历史内容仍在 archive/pre_2026-11-19",
+      "bytes": 278
+    },
+    {
+      "path": "references\\NEW_REFERENCE_CANDIDATES.md",
+      "reason": "只指向当前规则的重复占位说明；原历史内容仍在 archive/pre_2026-11-19",
+      "bytes": 278
+    },
+    {
+      "path": "references\\SEARCH_PLAYBOOK.md",
+      "reason": "只指向当前规则的重复占位说明；原历史内容仍在 archive/pre_2026-11-19",
+      "bytes": 278
+    }
+  ],
+  "moved": [
+    {
+      "from": "outputs\\color-references\\all-references.json",
+      "to": "references\\color-references\\all-references.json"
+    },
+    {
+      "from": "outputs\\color-references\\all-source-index.csv",
+      "to": "references\\color-references\\all-source-index.csv"
+    },
+    {
+      "from": "outputs\\color-references\\brutalist-color-board.jpg",
+      "to": "references\\color-references\\brutalist-color-board.jpg"
+    },
+    {
+      "from": "outputs\\color-references\\color-reference-board.jpg",
+      "to": "references\\color-references\\color-reference-board.jpg"
+    },
+    {
+      "from": "outputs\\color-references\\使用说明.txt",
+      "to": "references\\color-references\\使用说明.txt"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B01.png",
+      "to": "references\\color-references\\images\\B01.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B02.png",
+      "to": "references\\color-references\\images\\B02.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B03.png",
+      "to": "references\\color-references\\images\\B03.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B04.png",
+      "to": "references\\color-references\\images\\B04.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B05.png",
+      "to": "references\\color-references\\images\\B05.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B06.png",
+      "to": "references\\color-references\\images\\B06.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B07.png",
+      "to": "references\\color-references\\images\\B07.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B08.png",
+      "to": "references\\color-references\\images\\B08.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B09.png",
+      "to": "references\\color-references\\images\\B09.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B11.png",
+      "to": "references\\color-references\\images\\B11.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\B12.png",
+      "to": "references\\color-references\\images\\B12.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\C01.png",
+      "to": "references\\color-references\\images\\C01.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\C04.png",
+      "to": "references\\color-references\\images\\C04.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\C05.png",
+      "to": "references\\color-references\\images\\C05.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\C06.png",
+      "to": "references\\color-references\\images\\C06.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\C07.png",
+      "to": "references\\color-references\\images\\C07.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\C08.png",
+      "to": "references\\color-references\\images\\C08.png"
+    },
+    {
+      "from": "outputs\\color-references\\images\\C09.png",
+      "to": "references\\color-references\\images\\C09.png"
+    },
+    {
+      "from": "transcription\\BV1zQW264Ext.json",
+      "to": "references\\video-marathon\\BV1zQW264Ext.json"
+    },
+    {
+      "from": "transcription\\BV1zQW264Ext.m4a",
+      "to": "references\\video-marathon\\BV1zQW264Ext.m4a"
+    },
+    {
+      "from": "transcription\\BV1zQW264Ext.srt",
+      "to": "references\\video-marathon\\BV1zQW264Ext.srt"
+    },
+    {
+      "from": "transcription\\BV1zQW264Ext.txt",
+      "to": "references\\video-marathon\\BV1zQW264Ext.txt"
+    },
+    {
+      "from": "_review_contact_sheets\\sheet-01.jpg",
+      "to": "archive\\review-contact-sheets\\sheet-01.jpg"
+    },
+    {
+      "from": "_review_contact_sheets\\sheet-02.jpg",
+      "to": "archive\\review-contact-sheets\\sheet-02.jpg"
+    },
+    {
+      "from": "_review_contact_sheets\\sheet-03.jpg",
+      "to": "archive\\review-contact-sheets\\sheet-03.jpg"
+    },
+    {
+      "from": "_review_contact_sheets\\sheet-04.jpg",
+      "to": "archive\\review-contact-sheets\\sheet-04.jpg"
+    },
+    {
+      "from": "_review_contact_sheets\\sheet-05.jpg",
+      "to": "archive\\review-contact-sheets\\sheet-05.jpg"
+    },
+    {
+      "from": "concepts\\ROUND01_CONCEPT_CARDS.md",
+      "to": "archive\\early-concepts\\ROUND01_CONCEPT_CARDS.md"
+    },
+    {
+      "from": "concepts\\round_00_failure\\R00_generic_helmet.png",
+      "to": "archive\\early-concepts\\round_00_failure\\R00_generic_helmet.png"
+    },
+    {
+      "from": "concepts\\round_00_failure\\README.md",
+      "to": "archive\\early-concepts\\round_00_failure\\README.md"
+    },
+    {
+      "from": "concepts\\round_01\\README.md",
+      "to": "archive\\early-concepts\\round_01\\README.md"
+    },
+    {
+      "from": "sites\\helmet-atlas\\README.md",
+      "to": "archive\\website-prototype\\helmet-atlas\\README.md"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\COMMIT_EDITMSG",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\COMMIT_EDITMSG"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\config",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\config"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\description",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\description"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\FETCH_HEAD",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\FETCH_HEAD"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\HEAD",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\HEAD"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\index",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\index"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.openai\\hosting.json",
+      "to": "archive\\website-prototype\\helmet-atlas\\.openai\\hosting.json"
+    },
+    {
+      "from": "sites\\helmet-atlas\\dist\\app.js",
+      "to": "archive\\website-prototype\\helmet-atlas\\dist\\app.js"
+    },
+    {
+      "from": "sites\\helmet-atlas\\dist\\content.js",
+      "to": "archive\\website-prototype\\helmet-atlas\\dist\\content.js"
+    },
+    {
+      "from": "sites\\helmet-atlas\\dist\\index.html",
+      "to": "archive\\website-prototype\\helmet-atlas\\dist\\index.html"
+    },
+    {
+      "from": "sites\\helmet-atlas\\dist\\routes.js",
+      "to": "archive\\website-prototype\\helmet-atlas\\dist\\routes.js"
+    },
+    {
+      "from": "sites\\helmet-atlas\\dist\\style.css",
+      "to": "archive\\website-prototype\\helmet-atlas\\dist\\style.css"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\applypatch-msg.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\applypatch-msg.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\commit-msg.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\commit-msg.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\fsmonitor-watchman.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\fsmonitor-watchman.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\post-update.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\post-update.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\pre-applypatch.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\pre-applypatch.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\pre-commit.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\pre-commit.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\pre-merge-commit.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\pre-merge-commit.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\pre-push.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\pre-push.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\pre-rebase.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\pre-rebase.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\pre-receive.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\pre-receive.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\prepare-commit-msg.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\prepare-commit-msg.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\push-to-checkout.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\push-to-checkout.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\sendemail-validate.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\sendemail-validate.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\hooks\\update.sample",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\hooks\\update.sample"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\info\\exclude",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\info\\exclude"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\logs\\HEAD",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\logs\\HEAD"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\logs\\refs\\heads\\main",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\logs\\refs\\heads\\main"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\52\\495e50a3845c50c1a4517f8fcbcbe09c9fed87",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\52\\495e50a3845c50c1a4517f8fcbcbe09c9fed87"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\69\\f08cb17f41181514c21a1c6184cd3a9cd79e50",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\69\\f08cb17f41181514c21a1c6184cd3a9cd79e50"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\a5\\f493fa391c5026c6eea7f957f5b1fe4120304a",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\a5\\f493fa391c5026c6eea7f957f5b1fe4120304a"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\c3\\6c3118ea909f2ebf1a92a9e39a02897cc071d6",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\c3\\6c3118ea909f2ebf1a92a9e39a02897cc071d6"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\ca\\b200da2e4cc57f9b5a14690bbdf9d336582fbc",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\ca\\b200da2e4cc57f9b5a14690bbdf9d336582fbc"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\d6\\f3a8d15bd9051d291264258f09969e423663cb",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\d6\\f3a8d15bd9051d291264258f09969e423663cb"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\d7\\ebe5d7169b9c34199d9950b6d21ad24f36165d",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\d7\\ebe5d7169b9c34199d9950b6d21ad24f36165d"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\d8\\806c833b7438a3ac5ca673bdb618ec82b3c13c",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\d8\\806c833b7438a3ac5ca673bdb618ec82b3c13c"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\df\\cc45e60a79399717f92097ef48bb7fdc657f6b",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\df\\cc45e60a79399717f92097ef48bb7fdc657f6b"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\objects\\f4\\10d398093227b63044d9536749efda2e963408",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\objects\\f4\\10d398093227b63044d9536749efda2e963408"
+    },
+    {
+      "from": "sites\\helmet-atlas\\.git\\refs\\heads\\main",
+      "to": "archive\\website-prototype\\helmet-atlas\\.git\\refs\\heads\\main"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v01-teal-wax-threeview.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v01-teal-wax-threeview.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v02-nonhuman-interior.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v02-nonhuman-interior.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v03-indigo-ice-chin.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v03-indigo-ice-chin.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v04-frameless-empty.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v04-frameless-empty.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v05-mechanical-large.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v05-mechanical-large.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v06-human-proportions.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v06-human-proportions.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v07-straight-chin.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v07-straight-chin.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v08-boolean-tall.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v08-boolean-tall.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v09-boolean-balanced.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v09-boolean-balanced.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-infinity-v10-orange-stone-shallow.png",
+      "to": "archive\\paused-directions\\window-insert\\03-infinity-v10-orange-stone-shallow.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-window-insert-v01-20261117-182027-1.png",
+      "to": "archive\\paused-directions\\window-insert\\03-window-insert-v01-20261117-182027-1.png"
+    },
+    {
+      "from": "outputs\\window-insert\\03-window-insert-v03-teal-wax-threeview.png",
+      "to": "archive\\paused-directions\\window-insert\\03-window-insert-v03-teal-wax-threeview.png"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v01-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v01-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v02-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v02-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v03-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v03-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v04-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v04-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v05-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v05-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v06-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v06-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v07-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v07-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v08-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v08-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v09-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v09-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\infinity-v10-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\infinity-v10-notes.md"
+    },
+    {
+      "from": "outputs\\window-insert\\prompt-v01.txt",
+      "to": "archive\\paused-directions\\window-insert\\prompt-v01.txt"
+    },
+    {
+      "from": "outputs\\window-insert\\v03-notes.md",
+      "to": "archive\\paused-directions\\window-insert\\v03-notes.md"
+    },
+    {
+      "from": "outputs\\aster7-branch-c-palette-01-teal-wax-fuchsia.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-branch-c-palette-01-teal-wax-fuchsia.png"
+    },
+    {
+      "from": "outputs\\aster7-branch-c-palette-02-purple-green-orange.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-branch-c-palette-02-purple-green-orange.png"
+    },
+    {
+      "from": "outputs\\aster7-branch-c-palette-03-wine-peach-aqua.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-branch-c-palette-03-wine-peach-aqua.png"
+    },
+    {
+      "from": "outputs\\aster7-direction01-quarter-depth-edit-20261119-221102-1.png",
+      "to": "outputs\\visor-core\\history\\aster7-direction01-quarter-depth-edit-20261119-221102-1.png"
+    },
+    {
+      "from": "outputs\\aster7-direction01-quarter-depth-verified-logo-20261119.png",
+      "to": "outputs\\visor-core\\history\\aster7-direction01-quarter-depth-verified-logo-20261119.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-b-20261117-152720-1.png",
+      "to": "outputs\\visor-core\\history\\aster7-helmet-branch-b-20261117-152720-1.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-b-purple-green-20261117-153250-1.png",
+      "to": "outputs\\visor-core\\history\\aster7-helmet-branch-b-purple-green-20261117-153250-1.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-c-frame-halo-builtin-v1.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-helmet-branch-c-frame-halo-builtin-v1.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-c-frame-halo-builtin-v2-angle-matched.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-helmet-branch-c-frame-halo-builtin-v2-angle-matched.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-c-frame-halo-builtin-v3-camera-locked.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-helmet-branch-c-frame-halo-builtin-v3-camera-locked.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-c-frame-halo-builtin-v4-left-front-45-locked.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-helmet-branch-c-frame-halo-builtin-v4-left-front-45-locked.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-c-frame-halo-v5-purple-mint-orange.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-helmet-branch-c-frame-halo-v5-purple-mint-orange.png"
+    },
+    {
+      "from": "outputs\\aster7-helmet-branch-c-frame-halo-v6-deep-purple-yellow.png",
+      "to": "archive\\paused-directions\\frame-halo\\aster7-helmet-branch-c-frame-halo-v6-deep-purple-yellow.png"
+    },
+    {
+      "from": "outputs\\helmet-anatomical-eye-corrected-20261116-202810-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-anatomical-eye-corrected-20261116-202810-1.png"
+    },
+    {
+      "from": "outputs\\helmet-cad-three-moving-parts-45deg-20261116-222445-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-cad-three-moving-parts-45deg-20261116-222445-1.png"
+    },
+    {
+      "from": "outputs\\helmet-correct-closed-envelope-strong-nose-occlusion-20261117-131251-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-correct-closed-envelope-strong-nose-occlusion-20261117-131251-1.png"
+    },
+    {
+      "from": "outputs\\helmet-diagonal-optics-visible-panels-45deg-retry-20261116-222805-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-diagonal-optics-visible-panels-45deg-retry-20261116-222805-1.png"
+    },
+    {
+      "from": "outputs\\helmet-direction01-single-20261116-171546-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-direction01-single-20261116-171546-1.png"
+    },
+    {
+      "from": "outputs\\helmet-exact-one-fifth-reticle-eye-20261116-232841-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-exact-one-fifth-reticle-eye-20261116-232841-1.png"
+    },
+    {
+      "from": "outputs\\helmet-exposed-mouth-high-value-contrast-20261116-203633-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-exposed-mouth-high-value-contrast-20261116-203633-1.png"
+    },
+    {
+      "from": "outputs\\helmet-eye-pod-one-fifth-depth-retry-20261116-213040-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-eye-pod-one-fifth-depth-retry-20261116-213040-1.png"
+    },
+    {
+      "from": "outputs\\helmet-eye-pod-sealed-closed-20261116-213323-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-eye-pod-sealed-closed-20261116-213323-1.png"
+    },
+    {
+      "from": "outputs\\helmet-fan-brow-half-mask-hinged-lid-20261116-210033-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-fan-brow-half-mask-hinged-lid-20261116-210033-1.png"
+    },
+    {
+      "from": "outputs\\helmet-final-clear-nose-abstract-optics-20261117-125254-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-final-clear-nose-abstract-optics-20261117-125254-1.png"
+    },
+    {
+      "from": "outputs\\helmet-final-eyelash-aegyosal-nose-occlusion-20261116-235905-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-final-eyelash-aegyosal-nose-occlusion-20261116-235905-1.png"
+    },
+    {
+      "from": "outputs\\helmet-final-porcelain-crosshair-eye-occlusion-20261117-000135-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-final-porcelain-crosshair-eye-occlusion-20261117-000135-1.png"
+    },
+    {
+      "from": "outputs\\helmet-final-reference-eye-no-iris-20261117-000439-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-final-reference-eye-no-iris-20261117-000439-1.png"
+    },
+    {
+      "from": "outputs\\helmet-final-structural-consistency-one-fifth-20261116-230532-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-final-structural-consistency-one-fifth-20261116-230532-1.png"
+    },
+    {
+      "from": "outputs\\helmet-final-true-16x9-white-board-20261116-234944-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-final-true-16x9-white-board-20261116-234944-1.png"
+    },
+    {
+      "from": "outputs\\helmet-final-white-board-crosshair-eye-20261116-234130-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-final-white-board-crosshair-eye-20261116-234130-1.png"
+    },
+    {
+      "from": "outputs\\helmet-fixed-eye-coordinate-abstract-optics-20261117-130528-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-fixed-eye-coordinate-abstract-optics-20261117-130528-1.png"
+    },
+    {
+      "from": "outputs\\helmet-front-depth-soft-face-optic-layout-20261116-214325-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-front-depth-soft-face-optic-layout-20261116-214325-1.png"
+    },
+    {
+      "from": "outputs\\helmet-glazed-android-face-dark-shell-20261116-205044-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-glazed-android-face-dark-shell-20261116-205044-1.png"
+    },
+    {
+      "from": "outputs\\helmet-glazed-blank-brow-three-petal-20261116-211354-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-glazed-blank-brow-three-petal-20261116-211354-1.png"
+    },
+    {
+      "from": "outputs\\helmet-hard-one-fifth-nose-tip-reticle-eye-20261116-232241-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-hard-one-fifth-nose-tip-reticle-eye-20261116-232241-1.png"
+    },
+    {
+      "from": "outputs\\helmet-hidden-optics-retry-20261116-200517-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-hidden-optics-retry-20261116-200517-1.png"
+    },
+    {
+      "from": "outputs\\helmet-iteration-depth-slide-smallref-20261117-145524-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-iteration-depth-slide-smallref-20261117-145524-1.png"
+    },
+    {
+      "from": "outputs\\helmet-iteration-restored-upload-1024x576.jpg",
+      "to": "outputs\\visor-core\\history\\helmet-iteration-restored-upload-1024x576.jpg"
+    },
+    {
+      "from": "outputs\\helmet-light-red-synced-subtle-side-interlocks-20261116-231541-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-light-red-synced-subtle-side-interlocks-20261116-231541-1.png"
+    },
+    {
+      "from": "outputs\\helmet-manual-iteration-edit-restored-20261117-144852-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-manual-iteration-edit-restored-20261117-144852-1.png"
+    },
+    {
+      "from": "outputs\\helmet-manual-regeneration-round1-20261117-142051-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-manual-regeneration-round1-20261117-142051-1.png"
+    },
+    {
+      "from": "outputs\\helmet-manual-round1-upload-1024x576.jpg",
+      "to": "outputs\\visor-core\\history\\helmet-manual-round1-upload-1024x576.jpg"
+    },
+    {
+      "from": "outputs\\helmet-nose-corrected-20261116-172026-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-nose-corrected-20261116-172026-1.png"
+    },
+    {
+      "from": "outputs\\helmet-one-fifth-compensated-reticle-eye-20261116-232533-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-one-fifth-compensated-reticle-eye-20261116-232533-1.png"
+    },
+    {
+      "from": "outputs\\helmet-optical-three-views-20261116-172941-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-optical-three-views-20261116-172941-1.png"
+    },
+    {
+      "from": "outputs\\helmet-optics-forehead-and-eye-position-20261116-214615-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-optics-forehead-and-eye-position-20261116-214615-1.png"
+    },
+    {
+      "from": "outputs\\helmet-proxy-recovery-test-full-20261117-144517-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-proxy-recovery-test-full-20261117-144517-1.png"
+    },
+    {
+      "from": "outputs\\helmet-right-eye-upload-reference-1024x576.jpg",
+      "to": "outputs\\visor-core\\history\\helmet-right-eye-upload-reference-1024x576.jpg"
+    },
+    {
+      "from": "outputs\\helmet-rounded-square-optics-colorways-20261116-202237-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-rounded-square-optics-colorways-20261116-202237-1.png"
+    },
+    {
+      "from": "outputs\\helmet-slide-correct-upload-1024x576.jpg",
+      "to": "outputs\\visor-core\\history\\helmet-slide-correct-upload-1024x576.jpg"
+    },
+    {
+      "from": "outputs\\helmet-spaced-pale-one-fifth-2k-20261116-230241-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-spaced-pale-one-fifth-2k-20261116-230241-1.png"
+    },
+    {
+      "from": "outputs\\helmet-strict-geometry-part-correspondence-20261116-215530-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-strict-geometry-part-correspondence-20261116-215530-1.png"
+    },
+    {
+      "from": "outputs\\helmet-strict-three-panel-45deg-20261116-222242-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-strict-three-panel-45deg-20261116-222242-1.png"
+    },
+    {
+      "from": "outputs\\helmet-structure-validation-45deg-20261116-221350-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-structure-validation-45deg-20261116-221350-1.png"
+    },
+    {
+      "from": "outputs\\helmet-triangle-optics-nose-foreground-final-20261117-132043-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-triangle-optics-nose-foreground-final-20261117-132043-1.png"
+    },
+    {
+      "from": "outputs\\helmet-upper-optic-inside-closed-envelope-20261117-131656-1.png",
+      "to": "outputs\\visor-core\\history\\helmet-upper-optic-inside-closed-envelope-20261117-131656-1.png"
+    },
+    {
+      "from": "outputs\\direction01-multi-20261119\\direction01-A-split-prism.png",
+      "to": "outputs\\visor-core\\direction01-multi-20261119\\direction01-A-split-prism.png"
+    },
+    {
+      "from": "outputs\\direction01-multi-20261119\\direction01-B-stepped-cantilever.png",
+      "to": "outputs\\visor-core\\direction01-multi-20261119\\direction01-B-stepped-cantilever.png"
+    },
+    {
+      "from": "outputs\\direction01-multi-20261119\\direction01-C-soft-block.png",
+      "to": "outputs\\visor-core\\direction01-multi-20261119\\direction01-C-soft-block.png"
+    },
+    {
+      "from": "outputs\\direction01-independent-20261119\\direction01-D-horizontal-bridge.png",
+      "to": "outputs\\visor-core\\direction01-independent-20261119\\direction01-D-horizontal-bridge.png"
+    },
+    {
+      "from": "outputs\\direction01-independent-20261119\\direction01-E-twin-wedge.png",
+      "to": "outputs\\visor-core\\direction01-independent-20261119\\direction01-E-twin-wedge.png"
+    },
+    {
+      "from": "outputs\\direction01-independent-20261119\\direction01-F-wrap-band.png",
+      "to": "outputs\\visor-core\\direction01-independent-20261119\\direction01-F-wrap-band.png"
+    },
+    {
+      "from": "scripts\\acquire_sources.py",
+      "to": "archive\\legacy-tools\\acquire_sources.py"
+    },
+    {
+      "from": "scripts\\sync_reference_md.py",
+      "to": "archive\\legacy-tools\\sync_reference_md.py"
+    },
+    {
+      "from": "scripts\\verify_reference_pack.py",
+      "to": "archive\\legacy-tools\\verify_reference_pack.py"
+    },
+    {
+      "from": "scripts\\获取参考图片_Windows.bat",
+      "to": "archive\\legacy-tools\\获取参考图片_Windows.bat"
+    },
+    {
+      "from": "scripts\\check_images.py",
+      "to": "archive\\legacy-tools\\check_images.py"
+    }
+  ]
+}

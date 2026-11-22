@@ -1,0 +1,2078 @@
+{
+  "target": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH",
+  "files": [
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-branch-c-palette-01-teal-wax-fuchsia.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-branch-c-palette-01-teal-wax-fuchsia.png",
+      "sha256": "cecc1b9d2eaca03aaeee2dc6a51ef2c28da6a9a8e198143996bcae1842496b47",
+      "action": "moved",
+      "current_sha256": "cecc1b9d2eaca03aaeee2dc6a51ef2c28da6a9a8e198143996bcae1842496b47",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-branch-c-palette-02-purple-green-orange.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-branch-c-palette-02-purple-green-orange.png",
+      "sha256": "e7ff5ea2f95d07019cc9f0ac5b715cc774c519e92187cb36674f15365637f79a",
+      "action": "moved",
+      "current_sha256": "e7ff5ea2f95d07019cc9f0ac5b715cc774c519e92187cb36674f15365637f79a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-branch-c-palette-03-wine-peach-aqua.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-branch-c-palette-03-wine-peach-aqua.png",
+      "sha256": "7de1b0e2fa352b6b6f0d3b2c85839b836b37eb892953f573c062969ebff6a96e",
+      "action": "moved",
+      "current_sha256": "7de1b0e2fa352b6b6f0d3b2c85839b836b37eb892953f573c062969ebff6a96e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-direction01-quarter-depth-edit-20261119-221102-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-direction01-quarter-depth-edit-20261119-221102-1.png",
+      "sha256": "840ea037eb4cdce92aae988776e7444100eca444debaf0dd054e1488258a3709",
+      "action": "moved",
+      "current_sha256": "840ea037eb4cdce92aae988776e7444100eca444debaf0dd054e1488258a3709",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-direction01-quarter-depth-verified-logo-20261119.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-direction01-quarter-depth-verified-logo-20261119.png",
+      "sha256": "6778348a7e605f955a87892dd0383f73ad88e546a239b77b8b03651193794ea0",
+      "action": "moved",
+      "current_sha256": "6778348a7e605f955a87892dd0383f73ad88e546a239b77b8b03651193794ea0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-b-20261117-152720-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-b-20261117-152720-1.png",
+      "sha256": "4caf62cc9eb9ac7d83f1decd50dd4d28c3fcb18c25de7050fee62ae7628fca53",
+      "action": "moved",
+      "current_sha256": "4caf62cc9eb9ac7d83f1decd50dd4d28c3fcb18c25de7050fee62ae7628fca53",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-b-purple-green-20261117-153250-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-b-purple-green-20261117-153250-1.png",
+      "sha256": "cea8ba3db0be0623465158540d226dc5e9db347bb2e883248d7d79bf0a755812",
+      "action": "moved",
+      "current_sha256": "cea8ba3db0be0623465158540d226dc5e9db347bb2e883248d7d79bf0a755812",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v1.png",
+      "sha256": "bb9af0282e760660ebe48083f7a798f61f0348795f1106fa642ea823343ac724",
+      "action": "moved",
+      "current_sha256": "bb9af0282e760660ebe48083f7a798f61f0348795f1106fa642ea823343ac724",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v2-angle-matched.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v2-angle-matched.png",
+      "sha256": "53f9e5b770684623dc082448b56d3720c8c4ef89d83feb463224919551390a43",
+      "action": "moved",
+      "current_sha256": "53f9e5b770684623dc082448b56d3720c8c4ef89d83feb463224919551390a43",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v3-camera-locked.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v3-camera-locked.png",
+      "sha256": "b7279e0cde86802512d3cdb488354a38eda872cb575d4db2af90454c4c672d50",
+      "action": "moved",
+      "current_sha256": "b7279e0cde86802512d3cdb488354a38eda872cb575d4db2af90454c4c672d50",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v4-left-front-45-locked.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-c-frame-halo-builtin-v4-left-front-45-locked.png",
+      "sha256": "0a8325edf715bd92c2a77d29f49f11b979937bc8901bb33b8a5622e84b3d733d",
+      "action": "moved",
+      "current_sha256": "0a8325edf715bd92c2a77d29f49f11b979937bc8901bb33b8a5622e84b3d733d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-c-frame-halo-v5-purple-mint-orange.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-c-frame-halo-v5-purple-mint-orange.png",
+      "sha256": "f7346686c2e14ef5ab40657c948eef1cef1644d8ca5aaa29fd8f130882cd0045",
+      "action": "moved",
+      "current_sha256": "f7346686c2e14ef5ab40657c948eef1cef1644d8ca5aaa29fd8f130882cd0045",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\aster7-helmet-branch-c-frame-halo-v6-deep-purple-yellow.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\aster7-helmet-branch-c-frame-halo-v6-deep-purple-yellow.png",
+      "sha256": "4639b07d36c2b60743a7f3c318c27b603b7776ae20b27c86c97841215a10976d",
+      "action": "moved",
+      "current_sha256": "4639b07d36c2b60743a7f3c318c27b603b7776ae20b27c86c97841215a10976d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\all-references.json",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\all-references.json",
+      "sha256": "146f22a74c033a7cf796fab0e4d151aee76883348de304fd60586e881763c8ed",
+      "action": "moved",
+      "current_sha256": "146f22a74c033a7cf796fab0e4d151aee76883348de304fd60586e881763c8ed",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\all-source-index.csv",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\all-source-index.csv",
+      "sha256": "e69375c23a154ff9da5f7a3cf1ac86b45e109afba2823b40e74f62d0180416c9",
+      "action": "moved",
+      "current_sha256": "e69375c23a154ff9da5f7a3cf1ac86b45e109afba2823b40e74f62d0180416c9",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\brutalist-color-board.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\brutalist-color-board.jpg",
+      "sha256": "403a606e5c56dd8f3cc7db71eac411785e3b6b8707774e439248504a99c369aa",
+      "action": "moved",
+      "current_sha256": "403a606e5c56dd8f3cc7db71eac411785e3b6b8707774e439248504a99c369aa",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\brutalist-references.json",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\brutalist-references.json",
+      "sha256": "2b84c3bd46d696f4ff64f7e1b5b8513df265ea7f13310147ceff6a67db98d2c9",
+      "action": "moved",
+      "current_sha256": "2b84c3bd46d696f4ff64f7e1b5b8513df265ea7f13310147ceff6a67db98d2c9",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\brutalist-source-index.csv",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\brutalist-source-index.csv",
+      "sha256": "8891b7f60e331fe15955ce4f024821c9bbb2aa3e54aaa1421c8f9d2617943530",
+      "action": "moved",
+      "current_sha256": "8891b7f60e331fe15955ce4f024821c9bbb2aa3e54aaa1421c8f9d2617943530",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\build.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\build.py",
+      "sha256": "41e53df07f0ac52b98f90b07fefde2ec7341cd2e0f9516099e3fef26a55a679d",
+      "action": "moved",
+      "current_sha256": "41e53df07f0ac52b98f90b07fefde2ec7341cd2e0f9516099e3fef26a55a679d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\color-reference-board.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\color-reference-board.jpg",
+      "sha256": "30d76fc9a245a447d78e93a703bb50cb53f6bf978c48c8483dae6597b92e9fe0",
+      "action": "moved",
+      "current_sha256": "30d76fc9a245a447d78e93a703bb50cb53f6bf978c48c8483dae6597b92e9fe0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\discover.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\discover.py",
+      "sha256": "c51516b6006b4b4916abe50582f969f3c4c2cf0b41d2bca698f4510a499154f1",
+      "action": "moved",
+      "current_sha256": "c51516b6006b4b4916abe50582f969f3c4c2cf0b41d2bca698f4510a499154f1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\expand.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\expand.py",
+      "sha256": "9208d7411da9fd15a8ee10a286a0b127766888b1c3f230ad30553af58d65530b",
+      "action": "moved",
+      "current_sha256": "9208d7411da9fd15a8ee10a286a0b127766888b1c3f230ad30553af58d65530b",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B01.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B01.png",
+      "sha256": "3929af0117a40842f3c1c0cc393e19d27f64f9fd77a1603b195ee0c7cd96a98f",
+      "action": "moved",
+      "current_sha256": "3929af0117a40842f3c1c0cc393e19d27f64f9fd77a1603b195ee0c7cd96a98f",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B02.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B02.png",
+      "sha256": "fc41ae354421538d2b5aa0c2733d8de87ee2cf6195c24de7ca65f18736fe71fe",
+      "action": "moved",
+      "current_sha256": "fc41ae354421538d2b5aa0c2733d8de87ee2cf6195c24de7ca65f18736fe71fe",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B03.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B03.png",
+      "sha256": "9060c2487765a37e2180dfe285b14c39b2ea57f576602905b6d81df6e3596103",
+      "action": "moved",
+      "current_sha256": "9060c2487765a37e2180dfe285b14c39b2ea57f576602905b6d81df6e3596103",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B04.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B04.png",
+      "sha256": "f1d08f4f620c2b7ca582a3d2256b55279e88368620c83209f7a7a40f8a954932",
+      "action": "moved",
+      "current_sha256": "f1d08f4f620c2b7ca582a3d2256b55279e88368620c83209f7a7a40f8a954932",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B05.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B05.png",
+      "sha256": "835fcdc42850764d3cc2b12606a53bf669366f22da6e98e421c97ae675d027ea",
+      "action": "moved",
+      "current_sha256": "835fcdc42850764d3cc2b12606a53bf669366f22da6e98e421c97ae675d027ea",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B06.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B06.png",
+      "sha256": "1584466b599e681b788f4d2e995be9144d0aafe135a9091d9589f44aae6d3b14",
+      "action": "moved",
+      "current_sha256": "1584466b599e681b788f4d2e995be9144d0aafe135a9091d9589f44aae6d3b14",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B07.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B07.png",
+      "sha256": "cd5b11c392bcc1b9c2e1187f62f5d7b203e47a3ef4f8ffc1994b1a30361b64e6",
+      "action": "moved",
+      "current_sha256": "cd5b11c392bcc1b9c2e1187f62f5d7b203e47a3ef4f8ffc1994b1a30361b64e6",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B08.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B08.png",
+      "sha256": "07626585d8a6dd546cee633a9a8a9a0f545a788ca9e7c19684f7c00440b4f969",
+      "action": "moved",
+      "current_sha256": "07626585d8a6dd546cee633a9a8a9a0f545a788ca9e7c19684f7c00440b4f969",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B09.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B09.png",
+      "sha256": "15663937f5f0e7c67246858fb463bc567042b4d91355a9883fe25c0398a1bc3b",
+      "action": "moved",
+      "current_sha256": "15663937f5f0e7c67246858fb463bc567042b4d91355a9883fe25c0398a1bc3b",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B11.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B11.png",
+      "sha256": "e2a6d01e5f5c5fe91e9cbccbd43e142d182f16ec55dd5073876f2cd11765f8c7",
+      "action": "moved",
+      "current_sha256": "e2a6d01e5f5c5fe91e9cbccbd43e142d182f16ec55dd5073876f2cd11765f8c7",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\B12.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\B12.png",
+      "sha256": "0a09a8100765b2f2471c2a50fac2f6702ee73f03491abbf944fde440e934238d",
+      "action": "moved",
+      "current_sha256": "0a09a8100765b2f2471c2a50fac2f6702ee73f03491abbf944fde440e934238d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C01.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C01.png",
+      "sha256": "aeb98f5c6abdf6a633a326368f64afb7c2b852a3dcd19f0b70fbcb95c4e13253",
+      "action": "moved",
+      "current_sha256": "aeb98f5c6abdf6a633a326368f64afb7c2b852a3dcd19f0b70fbcb95c4e13253",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C02.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C02.png",
+      "sha256": "f6fb8da49959b347a6a4d254f4e6f4477dbaee2df6f02e0f34632fe87f11e4d1",
+      "action": "moved",
+      "current_sha256": "f6fb8da49959b347a6a4d254f4e6f4477dbaee2df6f02e0f34632fe87f11e4d1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C03.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C03.png",
+      "sha256": "10ed52ad7d01ac28d3da0b3bcb7bd57d5ff08e2b9af3dce3785462d540aac218",
+      "action": "moved",
+      "current_sha256": "10ed52ad7d01ac28d3da0b3bcb7bd57d5ff08e2b9af3dce3785462d540aac218",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C04.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C04.png",
+      "sha256": "d2a3e762936c7fea2d7cd9538e80358050af3835594211209f7afc3efd751497",
+      "action": "moved",
+      "current_sha256": "d2a3e762936c7fea2d7cd9538e80358050af3835594211209f7afc3efd751497",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C05.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C05.png",
+      "sha256": "d933abef754e31f5b52d5727cb986356aaf739a8dafcb4de5aac67b5b62acae7",
+      "action": "moved",
+      "current_sha256": "d933abef754e31f5b52d5727cb986356aaf739a8dafcb4de5aac67b5b62acae7",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C06.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C06.png",
+      "sha256": "fae0abf80c808c54fc1118ce06fb86a91690c376601f9a5e0b3a5d84a3b0cb73",
+      "action": "moved",
+      "current_sha256": "fae0abf80c808c54fc1118ce06fb86a91690c376601f9a5e0b3a5d84a3b0cb73",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C07.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C07.png",
+      "sha256": "3f3a3ee42c4f19911c72e473c90761254781f05385dbff9bb36e2c974cacc9b3",
+      "action": "moved",
+      "current_sha256": "3f3a3ee42c4f19911c72e473c90761254781f05385dbff9bb36e2c974cacc9b3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C08.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C08.png",
+      "sha256": "2c0decd084e54e74df43ae09cbb98a32c169a1261d3f582320f06dbf03321be2",
+      "action": "moved",
+      "current_sha256": "2c0decd084e54e74df43ae09cbb98a32c169a1261d3f582320f06dbf03321be2",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\images\\C09.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\images\\C09.png",
+      "sha256": "2dcda1a96a5cf1cda514b66477d58ac9c56b4cac0ee257d4493aac45d5c0fea9",
+      "action": "moved",
+      "current_sha256": "2dcda1a96a5cf1cda514b66477d58ac9c56b4cac0ee257d4493aac45d5c0fea9",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\pinterest-discover.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\pinterest-discover.py",
+      "sha256": "3a1f5fe17b74630be53a53045c3c89eff7004a94adf3e2256735e882b777db50",
+      "action": "moved",
+      "current_sha256": "12cdbbf183ab39baf76e43cf883cbfd87eeb643204728a3dae7ad6971bbe1350",
+      "content_edited_after_move": true
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\pinterest-pin.html",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\pinterest-pin.html",
+      "sha256": "7d6dc4e7ea22a56e2f88ed5987880a9bc43e9f33b59a7cd9fa955acc2cec6b77",
+      "action": "moved",
+      "current_sha256": "7d6dc4e7ea22a56e2f88ed5987880a9bc43e9f33b59a7cd9fa955acc2cec6b77",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\pinterest-search.html",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\pinterest-search.html",
+      "sha256": "bf0037bb2bdb1e211bbd36d4f3639db4378785c25f4612b06106ca8030b079a3",
+      "action": "moved",
+      "current_sha256": "bf0037bb2bdb1e211bbd36d4f3639db4378785c25f4612b06106ca8030b079a3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\pinterest-search.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\pinterest-search.py",
+      "sha256": "68facf306449a8db73961cdc83ff9ea89f31c91c1e1dfeeb50d69a4ff2bf11a0",
+      "action": "moved",
+      "current_sha256": "d5dadb2a60b7a311a215414a95880bfdd057265d48c339e3613588f586d4addd",
+      "content_edited_after_move": true
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\prepare-render.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\prepare-render.py",
+      "sha256": "2efdf8afe61e08eddb219fe71e5507b46aafb49555467f77729a26e34947224a",
+      "action": "moved",
+      "current_sha256": "2efdf8afe61e08eddb219fe71e5507b46aafb49555467f77729a26e34947224a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\references.json",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\references.json",
+      "sha256": "9400550dc2ad78d41fb567f9513034e8753a4d78298fb96c5afec59667071be0",
+      "action": "moved",
+      "current_sha256": "9400550dc2ad78d41fb567f9513034e8753a4d78298fb96c5afec59667071be0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\refine.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\refine.py",
+      "sha256": "c1483d30e069426515ce5b6bfa1d27a69a8d082184fe6122d9d8ea9973572f9c",
+      "action": "moved",
+      "current_sha256": "c1483d30e069426515ce5b6bfa1d27a69a8d082184fe6122d9d8ea9973572f9c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\render-brutalist.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\render-brutalist.py",
+      "sha256": "f3d5c01451d8753742055ce6a13c8b74fe8978e03990c90d2ef6038eac40b55d",
+      "action": "moved",
+      "current_sha256": "f3d5c01451d8753742055ce6a13c8b74fe8978e03990c90d2ef6038eac40b55d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\source-index.csv",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\source-index.csv",
+      "sha256": "2ac8721c4a88626ef7223b8b9c2fab2fed50a72089a3fd4c1c9d2eff1a1b9de9",
+      "action": "moved",
+      "current_sha256": "2ac8721c4a88626ef7223b8b9c2fab2fed50a72089a3fd4c1c9d2eff1a1b9de9",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\color-references\\使用说明.txt",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\color-references\\使用说明.txt",
+      "sha256": "abb9442896343b6e37b19741f747a46fcc5b08498da21a9a9e0e2a5248aac4b1",
+      "action": "moved",
+      "current_sha256": "abb9442896343b6e37b19741f747a46fcc5b08498da21a9a9e0e2a5248aac4b1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\direction01-independent-20261119\\direction01-D-horizontal-bridge.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\direction01-independent-20261119\\direction01-D-horizontal-bridge.png",
+      "sha256": "52ed2418d57f2e7df45ba229746c9ece988a2ec9aa5fd9931907764e251d90ba",
+      "action": "moved",
+      "current_sha256": "52ed2418d57f2e7df45ba229746c9ece988a2ec9aa5fd9931907764e251d90ba",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\direction01-independent-20261119\\direction01-E-twin-wedge.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\direction01-independent-20261119\\direction01-E-twin-wedge.png",
+      "sha256": "f2c22ffc39ae94c8b4248fe12eb50daf8fbe2a94e0c65c66a0f3c368d4ad2ed8",
+      "action": "moved",
+      "current_sha256": "f2c22ffc39ae94c8b4248fe12eb50daf8fbe2a94e0c65c66a0f3c368d4ad2ed8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\direction01-independent-20261119\\direction01-F-wrap-band.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\direction01-independent-20261119\\direction01-F-wrap-band.png",
+      "sha256": "2c3d3e1036ac906447d11ead15dd1564786616ecbcccea357534c5aca866c880",
+      "action": "moved",
+      "current_sha256": "2c3d3e1036ac906447d11ead15dd1564786616ecbcccea357534c5aca866c880",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\direction01-multi-20261119\\direction01-A-split-prism.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\direction01-multi-20261119\\direction01-A-split-prism.png",
+      "sha256": "058ee9f8e1bf37cdb8b1c5bf90eb75f3b4a07b57c44110a7122163b98ab4c488",
+      "action": "moved",
+      "current_sha256": "058ee9f8e1bf37cdb8b1c5bf90eb75f3b4a07b57c44110a7122163b98ab4c488",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\direction01-multi-20261119\\direction01-B-stepped-cantilever.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\direction01-multi-20261119\\direction01-B-stepped-cantilever.png",
+      "sha256": "73af881b203cf54a97e28e4d7f4af24689faf7093f0ad303ed7006c4a38f5d29",
+      "action": "moved",
+      "current_sha256": "73af881b203cf54a97e28e4d7f4af24689faf7093f0ad303ed7006c4a38f5d29",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\direction01-multi-20261119\\direction01-C-soft-block.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\direction01-multi-20261119\\direction01-C-soft-block.png",
+      "sha256": "3a48e8a49f0ab1de0757e46bb23ac309c6b5dc03512df3de53959dbe7e6ca03d",
+      "action": "moved",
+      "current_sha256": "3a48e8a49f0ab1de0757e46bb23ac309c6b5dc03512df3de53959dbe7e6ca03d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\format-reference\\blank-footer-exact-2k.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\format-reference\\blank-footer-exact-2k.png",
+      "sha256": "9a844bd0c598e6916f31b7b2ba39d1610bdf68af927a74a7184f487d1c1d6aff",
+      "action": "moved",
+      "current_sha256": "9a844bd0c598e6916f31b7b2ba39d1610bdf68af927a74a7184f487d1c1d6aff",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\format-reference\\blank-footer-template-v01.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\format-reference\\blank-footer-template-v01.png",
+      "sha256": "caac8626c06010258af07391cf9d4a9370f3777f509738669d54c4bc026f50a4",
+      "action": "moved",
+      "current_sha256": "caac8626c06010258af07391cf9d4a9370f3777f509738669d54c4bc026f50a4",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\format-reference\\three-view-format-preview-v01.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\format-reference\\three-view-format-preview-v01.png",
+      "sha256": "a4f07b633a99429b742ad08ac7928d7998deff4e10c6633e1dfb3eec17995874",
+      "action": "moved",
+      "current_sha256": "a4f07b633a99429b742ad08ac7928d7998deff4e10c6633e1dfb3eec17995874",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\format-reference\\user-footer-reference-original.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\format-reference\\user-footer-reference-original.png",
+      "sha256": "5bc15f91ebaf87fcca2ed2e03b2258ba738bd6feadc4e5c65f092fdfd5c4ad56",
+      "action": "moved",
+      "current_sha256": "5bc15f91ebaf87fcca2ed2e03b2258ba738bd6feadc4e5c65f092fdfd5c4ad56",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-anatomical-eye-corrected-20261116-202810-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-anatomical-eye-corrected-20261116-202810-1.png",
+      "sha256": "37bb7682c239bb324ed4838f6936e6a38d1e22676e7c6211801b2fb61cf2e076",
+      "action": "moved",
+      "current_sha256": "37bb7682c239bb324ed4838f6936e6a38d1e22676e7c6211801b2fb61cf2e076",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-cad-three-moving-parts-45deg-20261116-222445-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-cad-three-moving-parts-45deg-20261116-222445-1.png",
+      "sha256": "e4e59dff6b69ddcc5362211b6731b60f5875e5d8774002b406f8cc84068a3d30",
+      "action": "moved",
+      "current_sha256": "e4e59dff6b69ddcc5362211b6731b60f5875e5d8774002b406f8cc84068a3d30",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-correct-closed-envelope-strong-nose-occlusion-20261117-131251-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-correct-closed-envelope-strong-nose-occlusion-20261117-131251-1.png",
+      "sha256": "81e01fb5252017a4409aa22120b6d1f7004b96c03a6595bb5eb09b4c05b8609a",
+      "action": "moved",
+      "current_sha256": "81e01fb5252017a4409aa22120b6d1f7004b96c03a6595bb5eb09b4c05b8609a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-diagonal-optics-visible-panels-45deg-retry-20261116-222805-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-diagonal-optics-visible-panels-45deg-retry-20261116-222805-1.png",
+      "sha256": "f67aae9c454d1a4c7beb7e59a13f122a839de2f1e81de37fe6f74733619f5f96",
+      "action": "moved",
+      "current_sha256": "f67aae9c454d1a4c7beb7e59a13f122a839de2f1e81de37fe6f74733619f5f96",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-direction01-single-20261116-171546-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-direction01-single-20261116-171546-1.png",
+      "sha256": "c34e22f3522fe4f5bb0c8d87ba23c3d3315962b12e008446dee4f69bcdcaae8f",
+      "action": "moved",
+      "current_sha256": "c34e22f3522fe4f5bb0c8d87ba23c3d3315962b12e008446dee4f69bcdcaae8f",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-exact-one-fifth-reticle-eye-20261116-232841-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-exact-one-fifth-reticle-eye-20261116-232841-1.png",
+      "sha256": "9a954f5f3100d0c2528e8aab13e29ef5f4b436537e37bec5c176653f3fe07d8c",
+      "action": "moved",
+      "current_sha256": "9a954f5f3100d0c2528e8aab13e29ef5f4b436537e37bec5c176653f3fe07d8c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-exposed-mouth-high-value-contrast-20261116-203633-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-exposed-mouth-high-value-contrast-20261116-203633-1.png",
+      "sha256": "2d0a15327bfce2201d1a209cd96d9a7e16f9ae4ccd1d622dd86c9e4815b4e084",
+      "action": "moved",
+      "current_sha256": "2d0a15327bfce2201d1a209cd96d9a7e16f9ae4ccd1d622dd86c9e4815b4e084",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-eye-pod-one-fifth-depth-retry-20261116-213040-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-eye-pod-one-fifth-depth-retry-20261116-213040-1.png",
+      "sha256": "56ba7c5e395654afaf47e33496fc13a4f3db264dfe98bf84d9bbd9d2b08ee4f8",
+      "action": "moved",
+      "current_sha256": "56ba7c5e395654afaf47e33496fc13a4f3db264dfe98bf84d9bbd9d2b08ee4f8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-eye-pod-sealed-closed-20261116-213323-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-eye-pod-sealed-closed-20261116-213323-1.png",
+      "sha256": "45edd0ffd59bc553c2118ab168122a5495ca9bbc6f5938df24eb548b5e50dc49",
+      "action": "moved",
+      "current_sha256": "45edd0ffd59bc553c2118ab168122a5495ca9bbc6f5938df24eb548b5e50dc49",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-fan-brow-half-mask-hinged-lid-20261116-210033-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-fan-brow-half-mask-hinged-lid-20261116-210033-1.png",
+      "sha256": "c8057611bd515423397f78554084ffa66883800b555fcbc1d996e9aa982502c6",
+      "action": "moved",
+      "current_sha256": "c8057611bd515423397f78554084ffa66883800b555fcbc1d996e9aa982502c6",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-final-clear-nose-abstract-optics-20261117-125254-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-final-clear-nose-abstract-optics-20261117-125254-1.png",
+      "sha256": "c8b8f1d02487682355be5826300c62f9af1a2485e1836bb6a79d5476cdbb9a7a",
+      "action": "moved",
+      "current_sha256": "c8b8f1d02487682355be5826300c62f9af1a2485e1836bb6a79d5476cdbb9a7a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-final-eyelash-aegyosal-nose-occlusion-20261116-235905-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-final-eyelash-aegyosal-nose-occlusion-20261116-235905-1.png",
+      "sha256": "0f286d4bc8debe0933e9c3af29704166a7b3351c76e0208acd4632c5b3645cbe",
+      "action": "moved",
+      "current_sha256": "0f286d4bc8debe0933e9c3af29704166a7b3351c76e0208acd4632c5b3645cbe",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-final-porcelain-crosshair-eye-occlusion-20261117-000135-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-final-porcelain-crosshair-eye-occlusion-20261117-000135-1.png",
+      "sha256": "c3cbbbd402e1f403221fdda56605b9f21718d975f0c1deeafe144fdbfacb43cf",
+      "action": "moved",
+      "current_sha256": "c3cbbbd402e1f403221fdda56605b9f21718d975f0c1deeafe144fdbfacb43cf",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-final-reference-eye-no-iris-20261117-000439-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-final-reference-eye-no-iris-20261117-000439-1.png",
+      "sha256": "aaa77b09448b561c8405c2b70986b9afdebc70466ba5f6f5bbe14ad48d924c88",
+      "action": "moved",
+      "current_sha256": "aaa77b09448b561c8405c2b70986b9afdebc70466ba5f6f5bbe14ad48d924c88",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-final-structural-consistency-one-fifth-20261116-230532-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-final-structural-consistency-one-fifth-20261116-230532-1.png",
+      "sha256": "65e7828315af910566ec849f7caf6ec9f10f6a91027588f2b796724b04984384",
+      "action": "moved",
+      "current_sha256": "65e7828315af910566ec849f7caf6ec9f10f6a91027588f2b796724b04984384",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-final-true-16x9-white-board-20261116-234944-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-final-true-16x9-white-board-20261116-234944-1.png",
+      "sha256": "35ddb94a3387c240cb68431cad8b0a7ed4e7c7c9bb4672c063c55c4da3702bc4",
+      "action": "moved",
+      "current_sha256": "35ddb94a3387c240cb68431cad8b0a7ed4e7c7c9bb4672c063c55c4da3702bc4",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-final-white-board-crosshair-eye-20261116-234130-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-final-white-board-crosshair-eye-20261116-234130-1.png",
+      "sha256": "8abc26574ac73cd4c2bcd75fd4f94ae8a9dbbc45da66463607fd2f4f424b55f4",
+      "action": "moved",
+      "current_sha256": "8abc26574ac73cd4c2bcd75fd4f94ae8a9dbbc45da66463607fd2f4f424b55f4",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-fixed-eye-coordinate-abstract-optics-20261117-130528-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-fixed-eye-coordinate-abstract-optics-20261117-130528-1.png",
+      "sha256": "47581936b6307da31d5386346bb451298300ef8fa5d29e4d2cc41a83843cbc05",
+      "action": "moved",
+      "current_sha256": "47581936b6307da31d5386346bb451298300ef8fa5d29e4d2cc41a83843cbc05",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-front-depth-soft-face-optic-layout-20261116-214325-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-front-depth-soft-face-optic-layout-20261116-214325-1.png",
+      "sha256": "913f8caa5021618caa847e61abda2f717f6e0eb4a420022cf17b99e93944ef31",
+      "action": "moved",
+      "current_sha256": "913f8caa5021618caa847e61abda2f717f6e0eb4a420022cf17b99e93944ef31",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-glazed-android-face-dark-shell-20261116-205044-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-glazed-android-face-dark-shell-20261116-205044-1.png",
+      "sha256": "341023de9324dc801302284360efaa7526ff2308f14f9f7e1f520b4231096b9c",
+      "action": "moved",
+      "current_sha256": "341023de9324dc801302284360efaa7526ff2308f14f9f7e1f520b4231096b9c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-glazed-blank-brow-three-petal-20261116-211354-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-glazed-blank-brow-three-petal-20261116-211354-1.png",
+      "sha256": "a562ac7db75397281a1efb03046f750c294792a17d226e07a6a32632a87c2d65",
+      "action": "moved",
+      "current_sha256": "a562ac7db75397281a1efb03046f750c294792a17d226e07a6a32632a87c2d65",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-hard-one-fifth-nose-tip-reticle-eye-20261116-232241-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-hard-one-fifth-nose-tip-reticle-eye-20261116-232241-1.png",
+      "sha256": "d945e739eab0692ae8194f10b3a11eab92fad209f99d409ad68b7deb8629704d",
+      "action": "moved",
+      "current_sha256": "d945e739eab0692ae8194f10b3a11eab92fad209f99d409ad68b7deb8629704d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-hidden-optics-retry-20261116-200517-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-hidden-optics-retry-20261116-200517-1.png",
+      "sha256": "75f4f66c2296e85ac9b241b6c8f2897978a8c40225c3a87b7f6ebcaa4e84561d",
+      "action": "moved",
+      "current_sha256": "75f4f66c2296e85ac9b241b6c8f2897978a8c40225c3a87b7f6ebcaa4e84561d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-iteration-depth-slide-smallref-20261117-145524-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-iteration-depth-slide-smallref-20261117-145524-1.png",
+      "sha256": "7069ba7d1341fe36a16d8bde12a7ecd654dae0657ebafb1988e47ce690f15999",
+      "action": "moved",
+      "current_sha256": "7069ba7d1341fe36a16d8bde12a7ecd654dae0657ebafb1988e47ce690f15999",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-iteration-restored-upload-1024x576.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-iteration-restored-upload-1024x576.jpg",
+      "sha256": "d8350f9afd3e5fa0fec370e079cd1465886beebc959b921fc5fd51b675d03b13",
+      "action": "moved",
+      "current_sha256": "d8350f9afd3e5fa0fec370e079cd1465886beebc959b921fc5fd51b675d03b13",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-light-red-synced-subtle-side-interlocks-20261116-231541-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-light-red-synced-subtle-side-interlocks-20261116-231541-1.png",
+      "sha256": "3caa7087152c1749bab96fbf823f45403314b988a28a9d6f08534dc5237cacc5",
+      "action": "moved",
+      "current_sha256": "3caa7087152c1749bab96fbf823f45403314b988a28a9d6f08534dc5237cacc5",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-manual-iteration-edit-restored-20261117-144852-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-manual-iteration-edit-restored-20261117-144852-1.png",
+      "sha256": "e72e20e9bc0f943aed6b0c03ea6981b638098a9c2e2ade5221bc062b1ba89cd1",
+      "action": "moved",
+      "current_sha256": "e72e20e9bc0f943aed6b0c03ea6981b638098a9c2e2ade5221bc062b1ba89cd1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-manual-regeneration-round1-20261117-142051-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-manual-regeneration-round1-20261117-142051-1.png",
+      "sha256": "bac04d93366f751d7b56fd37daf0a99ef44046531ecf4fe095c84aed14efc3b0",
+      "action": "moved",
+      "current_sha256": "bac04d93366f751d7b56fd37daf0a99ef44046531ecf4fe095c84aed14efc3b0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-manual-round1-upload-1024x576.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-manual-round1-upload-1024x576.jpg",
+      "sha256": "d71a5547ddc44a98bef7cfdd3bfe0ecd9bd4f597f1dc1275f9b844026c805339",
+      "action": "moved",
+      "current_sha256": "d71a5547ddc44a98bef7cfdd3bfe0ecd9bd4f597f1dc1275f9b844026c805339",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-nose-corrected-20261116-172026-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-nose-corrected-20261116-172026-1.png",
+      "sha256": "aa168ec2affee0fb3ad8e4e32ffe77b1c6f981a7030508731c7347c947f23a2e",
+      "action": "moved",
+      "current_sha256": "aa168ec2affee0fb3ad8e4e32ffe77b1c6f981a7030508731c7347c947f23a2e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-one-fifth-compensated-reticle-eye-20261116-232533-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-one-fifth-compensated-reticle-eye-20261116-232533-1.png",
+      "sha256": "a791d90c7c08d51ead20a2566e051b9377ada2368cafa04c3c132feff8bc4abb",
+      "action": "moved",
+      "current_sha256": "a791d90c7c08d51ead20a2566e051b9377ada2368cafa04c3c132feff8bc4abb",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-optical-three-views-20261116-172941-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-optical-three-views-20261116-172941-1.png",
+      "sha256": "e92e8ed3055a920f132370d9410a28843422bb7abbb900da69d649b70f4a0561",
+      "action": "moved",
+      "current_sha256": "e92e8ed3055a920f132370d9410a28843422bb7abbb900da69d649b70f4a0561",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-optics-forehead-and-eye-position-20261116-214615-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-optics-forehead-and-eye-position-20261116-214615-1.png",
+      "sha256": "9bacad8b3e906fc20d589163a1cafba118b3790851f18161fdb3d2cb3ae826c0",
+      "action": "moved",
+      "current_sha256": "9bacad8b3e906fc20d589163a1cafba118b3790851f18161fdb3d2cb3ae826c0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-proxy-recovery-test-full-20261117-144517-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-proxy-recovery-test-full-20261117-144517-1.png",
+      "sha256": "feab6ca99e5278193d97c09d5718ed247c680fc8d7cc03f8dff8cec4c22a0e66",
+      "action": "moved",
+      "current_sha256": "feab6ca99e5278193d97c09d5718ed247c680fc8d7cc03f8dff8cec4c22a0e66",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-right-eye-upload-reference-1024x576.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-right-eye-upload-reference-1024x576.jpg",
+      "sha256": "8c57f3ca61544152b2ac955611d2221e9dc0adedbdc066f35a1ec16a1b831dfc",
+      "action": "moved",
+      "current_sha256": "8c57f3ca61544152b2ac955611d2221e9dc0adedbdc066f35a1ec16a1b831dfc",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-rounded-square-optics-colorways-20261116-202237-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-rounded-square-optics-colorways-20261116-202237-1.png",
+      "sha256": "c689c76a41859fcb76946b3f9178b9afe52064038451a4ff449e985cb989a056",
+      "action": "moved",
+      "current_sha256": "c689c76a41859fcb76946b3f9178b9afe52064038451a4ff449e985cb989a056",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-slide-correct-upload-1024x576.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-slide-correct-upload-1024x576.jpg",
+      "sha256": "022025587e4441b3fa870480eddee2bfc29d7b5ab14154acba29c8c159fa8820",
+      "action": "moved",
+      "current_sha256": "022025587e4441b3fa870480eddee2bfc29d7b5ab14154acba29c8c159fa8820",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-spaced-pale-one-fifth-2k-20261116-230241-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-spaced-pale-one-fifth-2k-20261116-230241-1.png",
+      "sha256": "b11c8163c8883cfc3b78643a996c3990c9c76f4b66fca9a64c2774ab5bb6312a",
+      "action": "moved",
+      "current_sha256": "b11c8163c8883cfc3b78643a996c3990c9c76f4b66fca9a64c2774ab5bb6312a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-strict-geometry-part-correspondence-20261116-215530-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-strict-geometry-part-correspondence-20261116-215530-1.png",
+      "sha256": "779587371751e9ccc63eb4f838a02dffa6a8420892ff70c1dc75d18c4f49e011",
+      "action": "moved",
+      "current_sha256": "779587371751e9ccc63eb4f838a02dffa6a8420892ff70c1dc75d18c4f49e011",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-strict-three-panel-45deg-20261116-222242-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-strict-three-panel-45deg-20261116-222242-1.png",
+      "sha256": "687da94997aecb6a427313fda0f432b99884da9834ff641b4e468a970a5e4a08",
+      "action": "moved",
+      "current_sha256": "687da94997aecb6a427313fda0f432b99884da9834ff641b4e468a970a5e4a08",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-structure-validation-45deg-20261116-221350-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-structure-validation-45deg-20261116-221350-1.png",
+      "sha256": "903e2c73fbe1f839fd0b2cbb0671a274e8e0bfadbc0dfa56161be2a7c5457c74",
+      "action": "moved",
+      "current_sha256": "903e2c73fbe1f839fd0b2cbb0671a274e8e0bfadbc0dfa56161be2a7c5457c74",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-triangle-optics-nose-foreground-final-20261117-132043-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-triangle-optics-nose-foreground-final-20261117-132043-1.png",
+      "sha256": "28f6fa5743d0f6378b1587df62aa5426358c0afabb5649dc29e393a349d9118e",
+      "action": "moved",
+      "current_sha256": "28f6fa5743d0f6378b1587df62aa5426358c0afabb5649dc29e393a349d9118e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\helmet-upper-optic-inside-closed-envelope-20261117-131656-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\helmet-upper-optic-inside-closed-envelope-20261117-131656-1.png",
+      "sha256": "2156866296b1ae50c405c93fad7684e8688bb894325de0830b94f1d641a696e3",
+      "action": "moved",
+      "current_sha256": "2156866296b1ae50c405c93fad7684e8688bb894325de0830b94f1d641a696e3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\CURRENT_CANDIDATES.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\CURRENT_CANDIDATES.md",
+      "sha256": "2cea1524f446e15f02f8f21a9922defa393d40ceee8809d3b165fc187ee9c6b9",
+      "action": "moved",
+      "current_sha256": "2cea1524f446e15f02f8f21a9922defa393d40ceee8809d3b165fc187ee9c6b9",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\design-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\design-notes.md",
+      "sha256": "8c1a45b831b8d42a3f5e11a8093155064fd1e4a1e28da3784620e472d0c47848",
+      "action": "moved",
+      "current_sha256": "8c1a45b831b8d42a3f5e11a8093155064fd1e4a1e28da3784620e472d0c47848",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v01.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v01.png",
+      "sha256": "c1c09b1f3bb89248fcfab113506c73032f98ae1882ee7ebb0dab4697ec869f80",
+      "action": "moved",
+      "current_sha256": "c1c09b1f3bb89248fcfab113506c73032f98ae1882ee7ebb0dab4697ec869f80",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v02-purple-lime.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v02-purple-lime.png",
+      "sha256": "29cbc4cd65cb1531be371b881ae81b9186f338a61da6bb2cbeb17f21218d6f4c",
+      "action": "moved",
+      "current_sha256": "29cbc4cd65cb1531be371b881ae81b9186f338a61da6bb2cbeb17f21218d6f4c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v03-closed-gloss.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v03-closed-gloss.png",
+      "sha256": "4ea34e0872b99809a8182e18707e10c067f1b396323f0ac9bf9658a558d19c5e",
+      "action": "moved",
+      "current_sha256": "4ea34e0872b99809a8182e18707e10c067f1b396323f0ac9bf9658a558d19c5e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v04-proportion-markings.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v04-proportion-markings.png",
+      "sha256": "58f884eb0df2eaff3bbd57cdbec5310c34519f7c5190a88dcc8f0d01e7d60ce4",
+      "action": "moved",
+      "current_sha256": "58f884eb0df2eaff3bbd57cdbec5310c34519f7c5190a88dcc8f0d01e7d60ce4",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v05-three-tier-lock.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v05-three-tier-lock.png",
+      "sha256": "69031a3231732002a45575c6c9a4693534a4fc538ccd6414d8b9e5d13ba59e5b",
+      "action": "moved",
+      "current_sha256": "69031a3231732002a45575c6c9a4693534a4fc538ccd6414d8b9e5d13ba59e5b",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v06-ear-jaw-horizontal-color.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v06-ear-jaw-horizontal-color.png",
+      "sha256": "55ec2e03c6f18e65565a277d0867d16766c0d525755d1b6e482022751b950347",
+      "action": "moved",
+      "current_sha256": "55ec2e03c6f18e65565a277d0867d16766c0d525755d1b6e482022751b950347",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v07a-teal-apricot.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v07a-teal-apricot.png",
+      "sha256": "59b9a47d2cc5e74cf3efdd3531e1fac7e8748e9ac16afe9fa8d7cad9d24da4c8",
+      "action": "moved",
+      "current_sha256": "59b9a47d2cc5e74cf3efdd3531e1fac7e8748e9ac16afe9fa8d7cad9d24da4c8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v07b-burgundy-ice.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v07b-burgundy-ice.png",
+      "sha256": "31e2a747865d14731d1b49532875125e4af94898a768feba18444f3bf74a9901",
+      "action": "moved",
+      "current_sha256": "31e2a747865d14731d1b49532875125e4af94898a768feba18444f3bf74a9901",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v07c-blue-yellow.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v07c-blue-yellow.png",
+      "sha256": "bc5f5120dfb4c28cb0be45b11981be87b342aa0a209ced4f69d631c1f4357e9b",
+      "action": "moved",
+      "current_sha256": "bc5f5120dfb4c28cb0be45b11981be87b342aa0a209ced4f69d631c1f4357e9b",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v08a-electric-cyan-orange.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v08a-electric-cyan-orange.png",
+      "sha256": "23f6a7666e81147b12ded91ac01a430a917f4cdd8f6db5926d7988a8adec0a57",
+      "action": "moved",
+      "current_sha256": "23f6a7666e81147b12ded91ac01a430a917f4cdd8f6db5926d7988a8adec0a57",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\panel-shell-v08c-electric-blue-lime.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\panel-shell-v08c-electric-blue-lime.png",
+      "sha256": "f1583e7c12f3b8c6ab1a26f014e1c91af870bf92530dd2b42d526c0e89027a11",
+      "action": "moved",
+      "current_sha256": "f1583e7c12f3b8c6ab1a26f014e1c91af870bf92530dd2b42d526c0e89027a11",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\selection-review-2026-11-19.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\selection-review-2026-11-19.md",
+      "sha256": "01d41b8a6bd563c78467be81a591ed53bdeade669228169e529639a278871cd9",
+      "action": "moved",
+      "current_sha256": "01d41b8a6bd563c78467be81a591ed53bdeade669228169e529639a278871cd9",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\panel-shell\\v07-review.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\panel-shell\\v07-review.md",
+      "sha256": "b22b9619a00124a43e50d983c4af4c7f3965383edbb120645f520a1a604da984",
+      "action": "moved",
+      "current_sha256": "b22b9619a00124a43e50d983c4af4c7f3965383edbb120645f520a1a604da984",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-06.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-06.png",
+      "sha256": "242e303c4428cf8eea7a3f96d6be0c9e86bb12c4388db5835f2f8b53a746f69e",
+      "action": "moved",
+      "current_sha256": "242e303c4428cf8eea7a3f96d6be0c9e86bb12c4388db5835f2f8b53a746f69e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-07_SPLIT-TAIL.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-07_SPLIT-TAIL.png",
+      "sha256": "2f3b1e52fa53dffaec94641f74b14681b91aa212afba953ae01bc01fb6c139d3",
+      "action": "moved",
+      "current_sha256": "2f3b1e52fa53dffaec94641f74b14681b91aa212afba953ae01bc01fb6c139d3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-08_CASSETTE-TAIL.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-08_CASSETTE-TAIL.png",
+      "sha256": "27f01de14f174006ef40bd35b2f3e76e877c113434b46626daa2827623a7a60c",
+      "action": "moved",
+      "current_sha256": "27f01de14f174006ef40bd35b2f3e76e877c113434b46626daa2827623a7a60c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-09_BRIDGE-FRAME.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-09_BRIDGE-FRAME.png",
+      "sha256": "9164ff1f345e93757399b94bff45382b8f267e9379c9d86d229d72318a426b70",
+      "action": "moved",
+      "current_sha256": "9164ff1f345e93757399b94bff45382b8f267e9379c9d86d229d72318a426b70",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-10_OFFSET-SHELL.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-10_OFFSET-SHELL.png",
+      "sha256": "43e6140ca57367a3fd84c9997e9b112de9ac9e0e9b9b3206d5e6090d88a48b15",
+      "action": "moved",
+      "current_sha256": "43e6140ca57367a3fd84c9997e9b112de9ac9e0e9b9b3206d5e6090d88a48b15",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-11_SPINE-SUSPENSION.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-11_SPINE-SUSPENSION.png",
+      "sha256": "77f665025c8914d090e28f85bed81f7cfc713f8b0c22aa17f9ae149522a5d990",
+      "action": "moved",
+      "current_sha256": "77f665025c8914d090e28f85bed81f7cfc713f8b0c22aa17f9ae149522a5d990",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-12_CMF-B_OXIDE-ICE.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-12_CMF-B_OXIDE-ICE.png",
+      "sha256": "a8aa349313f6d4e405134fcc763e6ee614c62f55a878e4b0fe2d25faf6f13a56",
+      "action": "moved",
+      "current_sha256": "a8aa349313f6d4e405134fcc763e6ee614c62f55a878e4b0fe2d25faf6f13a56",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-12_HORIZONTAL-STACK.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\ASTER-7_SIDE-POD_STUDY-12_HORIZONTAL-STACK.png",
+      "sha256": "10e6615183b2cc9081623b8fe91b366946ba26bf900e5ea442c331b000fc0d46",
+      "action": "moved",
+      "current_sha256": "10e6615183b2cc9081623b8fe91b366946ba26bf900e5ea442c331b000fc0d46",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-09_BRIDGE-FRAME_CANDIDATE.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-09_BRIDGE-FRAME_CANDIDATE.png",
+      "sha256": "97f8cf78a20930535f880389ecaa45cf911bb093ae3f87ed038956d70b248fce",
+      "action": "moved",
+      "current_sha256": "97f8cf78a20930535f880389ecaa45cf911bb093ae3f87ed038956d70b248fce",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-10_CMF-C_PLUM-SIGNAL_CANDIDATE.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-10_CMF-C_PLUM-SIGNAL_CANDIDATE.png",
+      "sha256": "15da7d3104811353218280935a15cad31fafc829b6834e389e5ca90168df6d6c",
+      "action": "moved",
+      "current_sha256": "15da7d3104811353218280935a15cad31fafc829b6834e389e5ca90168df6d6c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-11_CMF-D_PETROL-MAGENTA_CANDIDATE.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-11_CMF-D_PETROL-MAGENTA_CANDIDATE.png",
+      "sha256": "44e72d8871dd2d428a983c90a3fa12b840f99294f85982bf043ab3132d33d48c",
+      "action": "moved",
+      "current_sha256": "44e72d8871dd2d428a983c90a3fa12b840f99294f85982bf043ab3132d33d48c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-11_CMF-F_TOXIC-ELECTRIC_CANDIDATE.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\candidates\\ASTER-7_SIDE-POD_STUDY-11_CMF-F_TOXIC-ELECTRIC_CANDIDATE.png",
+      "sha256": "0722a99e51adacf55a77fd59a680fbe6af49e19ece52b4e6d8a9d150099d9f41",
+      "action": "moved",
+      "current_sha256": "0722a99e51adacf55a77fd59a680fbe6af49e19ece52b4e6d8a9d150099d9f41",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\diagnostics\\layout-test-discarded.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\diagnostics\\layout-test-discarded.png",
+      "sha256": "4a4e90976d623d02658b2991c4a47762f0bb61d8cfcb2d1258dab63e63cf8fa4",
+      "action": "moved",
+      "current_sha256": "4a4e90976d623d02658b2991c4a47762f0bb61d8cfcb2d1258dab63e63cf8fa4",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\final-products\\FINAL-02-01_STUDY-09_BRIDGE-FRAME.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\final-products\\FINAL-02-01_STUDY-09_BRIDGE-FRAME.png",
+      "sha256": "97f8cf78a20930535f880389ecaa45cf911bb093ae3f87ed038956d70b248fce",
+      "action": "moved",
+      "current_sha256": "97f8cf78a20930535f880389ecaa45cf911bb093ae3f87ed038956d70b248fce",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\final-products\\FINAL-02-02_STUDY-11_PETROL-MAGENTA.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\final-products\\FINAL-02-02_STUDY-11_PETROL-MAGENTA.png",
+      "sha256": "44e72d8871dd2d428a983c90a3fa12b840f99294f85982bf043ab3132d33d48c",
+      "action": "moved",
+      "current_sha256": "44e72d8871dd2d428a983c90a3fa12b840f99294f85982bf043ab3132d33d48c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\final-products\\FINAL-02-03_STUDY-10_UV-ACID.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\final-products\\FINAL-02-03_STUDY-10_UV-ACID.png",
+      "sha256": "6376e1c648df33cecac73dc4c8641963441e7983efc6cfa447377960bea125b2",
+      "action": "moved",
+      "current_sha256": "6376e1c648df33cecac73dc4c8641963441e7983efc6cfa447377960bea125b2",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\rejected\\ASTER-7_SIDE-POD_STUDY-12_OXIDE-ICE_REJECTED.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\rejected\\ASTER-7_SIDE-POD_STUDY-12_OXIDE-ICE_REJECTED.png",
+      "sha256": "5b2af1af0ec00956fe7d7ef7fab0f9628652022f6022532b3a2a7e5606b88423",
+      "action": "moved",
+      "current_sha256": "5b2af1af0ec00956fe7d7ef7fab0f9628652022f6022532b3a2a7e5606b88423",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\study01-prompt.txt",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\study01-prompt.txt",
+      "sha256": "7bed75cf56aa10f71125628ff8c29a67f8f60feddd9c8b45e428fc518fd4ffc5",
+      "action": "moved",
+      "current_sha256": "7bed75cf56aa10f71125628ff8c29a67f8f60feddd9c8b45e428fc518fd4ffc5",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\superseded-cmf\\ASTER-7_SIDE-POD_STUDY-10_BLUE-MINT_SUPERSEDED.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\superseded-cmf\\ASTER-7_SIDE-POD_STUDY-10_BLUE-MINT_SUPERSEDED.png",
+      "sha256": "dc1a2c10e7017a4a328299fa892d39aa75ac7383289176512ff2d423d42bb845",
+      "action": "moved",
+      "current_sha256": "dc1a2c10e7017a4a328299fa892d39aa75ac7383289176512ff2d423d42bb845",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\side-pod\\superseded-cmf\\ASTER-7_SIDE-POD_STUDY-11_BLUE-MINT_SUPERSEDED.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\side-pod\\superseded-cmf\\ASTER-7_SIDE-POD_STUDY-11_BLUE-MINT_SUPERSEDED.png",
+      "sha256": "bf7b3fac67931a4d5475d48c8ec7c6130d0f62a3d3255b456890a55489ccc2c8",
+      "action": "moved",
+      "current_sha256": "bf7b3fac67931a4d5475d48c8ec7c6130d0f62a3d3255b456890a55489ccc2c8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v01-teal-wax-threeview.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v01-teal-wax-threeview.png",
+      "sha256": "5d2776006519dc04456bbac7044be01c82362622dc21559ccfddc50b4d764503",
+      "action": "moved",
+      "current_sha256": "5d2776006519dc04456bbac7044be01c82362622dc21559ccfddc50b4d764503",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v02-nonhuman-interior.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v02-nonhuman-interior.png",
+      "sha256": "c85fe876ba6d7139df9248257811a89fb0a8445e179658be90141ffe857c9ee3",
+      "action": "moved",
+      "current_sha256": "c85fe876ba6d7139df9248257811a89fb0a8445e179658be90141ffe857c9ee3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v03-indigo-ice-chin.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v03-indigo-ice-chin.png",
+      "sha256": "4d5e821fc6e83ab8dac75347e434329595f594df300b5ddb08f98acd2b7a3380",
+      "action": "moved",
+      "current_sha256": "4d5e821fc6e83ab8dac75347e434329595f594df300b5ddb08f98acd2b7a3380",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v04-frameless-empty.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v04-frameless-empty.png",
+      "sha256": "1d8da8292347718edc34a9da6a2b763183335afe91b2af9f52b21b6f0e304b9b",
+      "action": "moved",
+      "current_sha256": "1d8da8292347718edc34a9da6a2b763183335afe91b2af9f52b21b6f0e304b9b",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v05-mechanical-large.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v05-mechanical-large.png",
+      "sha256": "4ec33a641f75aca9db0677b6af8b541f87b09beedd7d0fda333a5804ef49e8c0",
+      "action": "moved",
+      "current_sha256": "4ec33a641f75aca9db0677b6af8b541f87b09beedd7d0fda333a5804ef49e8c0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v06-human-proportions.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v06-human-proportions.png",
+      "sha256": "fe86cf54c3ab874edf160a269e36a0976d0589bc1f5dae5caf5f626966dd26eb",
+      "action": "moved",
+      "current_sha256": "fe86cf54c3ab874edf160a269e36a0976d0589bc1f5dae5caf5f626966dd26eb",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v07-straight-chin.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v07-straight-chin.png",
+      "sha256": "08703c0c5614bff724da7bc918f3731e0f2d15bbf5fb2b8f744fd5bdd6786ca1",
+      "action": "moved",
+      "current_sha256": "08703c0c5614bff724da7bc918f3731e0f2d15bbf5fb2b8f744fd5bdd6786ca1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v08-boolean-tall.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v08-boolean-tall.png",
+      "sha256": "101cf261d8b55d0a3f46579542124da14fbc05b7a6a68a5f05b739e491b204b0",
+      "action": "moved",
+      "current_sha256": "101cf261d8b55d0a3f46579542124da14fbc05b7a6a68a5f05b739e491b204b0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v09-boolean-balanced.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v09-boolean-balanced.png",
+      "sha256": "7286628f012d4b359c60bb9cc3bf08c0bab6488f056f9cfaa55ba866a8018afb",
+      "action": "moved",
+      "current_sha256": "7286628f012d4b359c60bb9cc3bf08c0bab6488f056f9cfaa55ba866a8018afb",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-infinity-v10-orange-stone-shallow.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-infinity-v10-orange-stone-shallow.png",
+      "sha256": "e4d415dc8ebfd1e73badf37fb7b9cc7d6c43872124993c8d183826703a3b253f",
+      "action": "moved",
+      "current_sha256": "e4d415dc8ebfd1e73badf37fb7b9cc7d6c43872124993c8d183826703a3b253f",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-window-insert-v01-20261117-182027-1.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-window-insert-v01-20261117-182027-1.png",
+      "sha256": "5cfef2abb66b9919032385526cbfe23998ee854ed7fb5997134e1b705e041766",
+      "action": "moved",
+      "current_sha256": "5cfef2abb66b9919032385526cbfe23998ee854ed7fb5997134e1b705e041766",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\03-window-insert-v03-teal-wax-threeview.png",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\03-window-insert-v03-teal-wax-threeview.png",
+      "sha256": "6040b7fbd878b9794c55c06509c8f3ee92c782c35f0c465749dd170301d731d4",
+      "action": "moved",
+      "current_sha256": "6040b7fbd878b9794c55c06509c8f3ee92c782c35f0c465749dd170301d731d4",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v01-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v01-notes.md",
+      "sha256": "65449d3857809473f0cfe3e1823475ebb053321cf7fca0e69b8f47959565aa75",
+      "action": "moved",
+      "current_sha256": "65449d3857809473f0cfe3e1823475ebb053321cf7fca0e69b8f47959565aa75",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v02-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v02-notes.md",
+      "sha256": "b8dab74280dec0820b002b9423114450754ca12eb58da535d7b4ef48dd3c30ee",
+      "action": "moved",
+      "current_sha256": "b8dab74280dec0820b002b9423114450754ca12eb58da535d7b4ef48dd3c30ee",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v03-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v03-notes.md",
+      "sha256": "6334b58396ddbafe8230008bf38ad15d3e4712c3a88a7baebcaa1aa6c6f916a3",
+      "action": "moved",
+      "current_sha256": "6334b58396ddbafe8230008bf38ad15d3e4712c3a88a7baebcaa1aa6c6f916a3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v04-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v04-notes.md",
+      "sha256": "b29691b6b407a1c2f9a4cdb0881fe7c7d737e6f7b851a58a3f83e5ad4832aa49",
+      "action": "moved",
+      "current_sha256": "b29691b6b407a1c2f9a4cdb0881fe7c7d737e6f7b851a58a3f83e5ad4832aa49",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v05-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v05-notes.md",
+      "sha256": "5e131f72a6114df1c4f5144300ae4068b8eea4ac3d6d75b6d6902623f55fcd1c",
+      "action": "moved",
+      "current_sha256": "5e131f72a6114df1c4f5144300ae4068b8eea4ac3d6d75b6d6902623f55fcd1c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v06-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v06-notes.md",
+      "sha256": "6a330dc06a092bdb3a36399a65983e884a02325b4a57907fc551c6c3ca8f21d6",
+      "action": "moved",
+      "current_sha256": "6a330dc06a092bdb3a36399a65983e884a02325b4a57907fc551c6c3ca8f21d6",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v07-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v07-notes.md",
+      "sha256": "e0c4434b45fa2fa772f58033b2d6774768c976e7a43f02e2a3c5c6e2b902ccf4",
+      "action": "moved",
+      "current_sha256": "e0c4434b45fa2fa772f58033b2d6774768c976e7a43f02e2a3c5c6e2b902ccf4",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v08-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v08-notes.md",
+      "sha256": "e056de93304c199e92f9d036772de4d0fceb6170102feb9e9781a48c2a795a67",
+      "action": "moved",
+      "current_sha256": "e056de93304c199e92f9d036772de4d0fceb6170102feb9e9781a48c2a795a67",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v09-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v09-notes.md",
+      "sha256": "a2c6208ed0b9c4cb64b5259bbfc47b9b011b46bdef5fec63d626d1c0dd5317e3",
+      "action": "moved",
+      "current_sha256": "a2c6208ed0b9c4cb64b5259bbfc47b9b011b46bdef5fec63d626d1c0dd5317e3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\infinity-v10-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\infinity-v10-notes.md",
+      "sha256": "8515a76fcffb5a8452daa76e4689507cd0e7f8b6138176332af5b44be52236e5",
+      "action": "moved",
+      "current_sha256": "8515a76fcffb5a8452daa76e4689507cd0e7f8b6138176332af5b44be52236e5",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\prompt-v01.txt",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\prompt-v01.txt",
+      "sha256": "c647b464b6e05ff06e1cd1e1d0a3f5dad2c392a1748ec627fcc217b4ff68d2f8",
+      "action": "moved",
+      "current_sha256": "c647b464b6e05ff06e1cd1e1d0a3f5dad2c392a1748ec627fcc217b4ff68d2f8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\outputs\\window-insert\\v03-notes.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\outputs\\window-insert\\v03-notes.md",
+      "sha256": "d02322d2e35898f86d038794e91bf876f08059b252fe192aea398520651a7787",
+      "action": "moved",
+      "current_sha256": "d02322d2e35898f86d038794e91bf876f08059b252fe192aea398520651a7787",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\scripts\\format_final_board.ps1",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\scripts\\format_final_board.ps1",
+      "sha256": "3ab397bdebd48feb69b605eb0fa75888eb5e559eb0656ce73b150502a34bd885",
+      "action": "moved",
+      "current_sha256": "3ab397bdebd48feb69b605eb0fa75888eb5e559eb0656ce73b150502a34bd885",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\scripts\\resize_final_board.ps1",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\scripts\\resize_final_board.ps1",
+      "sha256": "45392eee06c5830457dd2070e0a330315fcf6b18ae842db97934fe56eed5ce1a",
+      "action": "moved",
+      "current_sha256": "45392eee06c5830457dd2070e0a330315fcf6b18ae842db97934fe56eed5ce1a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\_review_contact_sheets\\sheet-01.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\_review_contact_sheets\\sheet-01.jpg",
+      "sha256": "72cba4eaaefbf26dcecc6facf612facf91f210427d4eb0f072225bf8db3b41e6",
+      "action": "moved",
+      "current_sha256": "72cba4eaaefbf26dcecc6facf612facf91f210427d4eb0f072225bf8db3b41e6",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\_review_contact_sheets\\sheet-02.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\_review_contact_sheets\\sheet-02.jpg",
+      "sha256": "34318dc37edefc350a460ef853be69288a2b06703043e51ed332303dcc2aac04",
+      "action": "moved",
+      "current_sha256": "34318dc37edefc350a460ef853be69288a2b06703043e51ed332303dcc2aac04",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\_review_contact_sheets\\sheet-03.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\_review_contact_sheets\\sheet-03.jpg",
+      "sha256": "d8de056b8409788c703e336ff221afc14d11987081d6a51b73487c3bf86f2927",
+      "action": "moved",
+      "current_sha256": "d8de056b8409788c703e336ff221afc14d11987081d6a51b73487c3bf86f2927",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\_review_contact_sheets\\sheet-04.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\_review_contact_sheets\\sheet-04.jpg",
+      "sha256": "3753c0836ea9cd002cdfa6e71a2560dced22d50b5b792fdef0f35831c11ae1b3",
+      "action": "moved",
+      "current_sha256": "3753c0836ea9cd002cdfa6e71a2560dced22d50b5b792fdef0f35831c11ae1b3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\_review_contact_sheets\\sheet-05.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\_review_contact_sheets\\sheet-05.jpg",
+      "sha256": "9590b2ab4e0de182443b810eb45a1adcb1f757d381467c2890f45401382f3d69",
+      "action": "moved",
+      "current_sha256": "9590b2ab4e0de182443b810eb45a1adcb1f757d381467c2890f45401382f3d69",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\BV1zQW264Ext.json",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\BV1zQW264Ext.json",
+      "sha256": "01de4eec3872e8cc846dfeff477a204a65b8302ba951ad64d936979ef98ac01a",
+      "action": "moved",
+      "current_sha256": "01de4eec3872e8cc846dfeff477a204a65b8302ba951ad64d936979ef98ac01a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\BV1zQW264Ext.m4a",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\BV1zQW264Ext.m4a",
+      "sha256": "84522559cd9cf7e6e77895eac2bcf38f30c467aedd8fc28a4a0b4942213f2b23",
+      "action": "moved",
+      "current_sha256": "84522559cd9cf7e6e77895eac2bcf38f30c467aedd8fc28a4a0b4942213f2b23",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\BV1zQW264Ext.srt",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\BV1zQW264Ext.srt",
+      "sha256": "b499887cd93b47d950928f2b4975ab658d1114d1b5c04847230dca8c9421f806",
+      "action": "moved",
+      "current_sha256": "b499887cd93b47d950928f2b4975ab658d1114d1b5c04847230dca8c9421f806",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\BV1zQW264Ext.txt",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\BV1zQW264Ext.txt",
+      "sha256": "c5a8d42f05c0e281879c554c86d55c0862e519972956b193400bbdf0004b1e4c",
+      "action": "moved",
+      "current_sha256": "c5a8d42f05c0e281879c554c86d55c0862e519972956b193400bbdf0004b1e4c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\download_model.py",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\download_model.py",
+      "sha256": "dadac704be3f963a47a6b6ae590ec4b987402bda439d0f259ea51464b7b7bd2e",
+      "action": "moved",
+      "current_sha256": "dadac704be3f963a47a6b6ae590ec4b987402bda439d0f259ea51464b7b7bd2e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\sample.json",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\sample.json",
+      "sha256": "41f516a06407252e507c699fbb42af08170ed5d420747b0e24c188f10be15597",
+      "action": "moved",
+      "current_sha256": "41f516a06407252e507c699fbb42af08170ed5d420747b0e24c188f10be15597",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\sample.srt",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\sample.srt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "moved",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\sample.txt",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\sample.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "moved",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\transcription\\sample.wav",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\transcription\\sample.wav",
+      "sha256": "bc2603d9ed23f97c697322796eca7392f563abd243a841c7f55ac0b5543d45ba",
+      "action": "moved",
+      "current_sha256": "bc2603d9ed23f97c697322796eca7392f563abd243a841c7f55ac0b5543d45ba",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\COMMIT_EDITMSG",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\COMMIT_EDITMSG",
+      "sha256": "76b543b84ad80155a1152046cbb3f3ff9bcb6edbf9fffebcfed1a9aab5f3388d",
+      "action": "moved",
+      "current_sha256": "76b543b84ad80155a1152046cbb3f3ff9bcb6edbf9fffebcfed1a9aab5f3388d",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\config",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\config",
+      "sha256": "05becdb83bb897f6103c8d91439e2e9092144edf5b3955a746fce4975c12bfdc",
+      "action": "moved",
+      "current_sha256": "05becdb83bb897f6103c8d91439e2e9092144edf5b3955a746fce4975c12bfdc",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\description",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\description",
+      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "action": "moved",
+      "current_sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\FETCH_HEAD",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\FETCH_HEAD",
+      "sha256": "283ecf9461cc1dd45b083d61d74482382da7a6c5a4db3fb1fbf3faff9a1422de",
+      "action": "moved",
+      "current_sha256": "283ecf9461cc1dd45b083d61d74482382da7a6c5a4db3fb1fbf3faff9a1422de",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\HEAD",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\HEAD",
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "action": "moved",
+      "current_sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\applypatch-msg.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\applypatch-msg.sample",
+      "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+      "action": "moved",
+      "current_sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\commit-msg.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\commit-msg.sample",
+      "sha256": "efc1401b0e99d1ff51494d154d98b46c1e99059bcd8bf9f73cecde19fd3eb23b",
+      "action": "moved",
+      "current_sha256": "efc1401b0e99d1ff51494d154d98b46c1e99059bcd8bf9f73cecde19fd3eb23b",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\fsmonitor-watchman.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\fsmonitor-watchman.sample",
+      "sha256": "9159720099ad5595b8e66645cbfd47763c1e920f46e0b50ae75e642bbec57ef0",
+      "action": "moved",
+      "current_sha256": "9159720099ad5595b8e66645cbfd47763c1e920f46e0b50ae75e642bbec57ef0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\post-update.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\post-update.sample",
+      "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+      "action": "moved",
+      "current_sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\pre-applypatch.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\pre-applypatch.sample",
+      "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+      "action": "moved",
+      "current_sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\pre-commit.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\pre-commit.sample",
+      "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+      "action": "moved",
+      "current_sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\pre-merge-commit.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\pre-merge-commit.sample",
+      "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+      "action": "moved",
+      "current_sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\pre-push.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\pre-push.sample",
+      "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+      "action": "moved",
+      "current_sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\pre-rebase.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\pre-rebase.sample",
+      "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+      "action": "moved",
+      "current_sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\pre-receive.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\pre-receive.sample",
+      "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+      "action": "moved",
+      "current_sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\prepare-commit-msg.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\prepare-commit-msg.sample",
+      "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+      "action": "moved",
+      "current_sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\push-to-checkout.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\push-to-checkout.sample",
+      "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+      "action": "moved",
+      "current_sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\sendemail-validate.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\sendemail-validate.sample",
+      "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+      "action": "moved",
+      "current_sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\hooks\\update.sample",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\hooks\\update.sample",
+      "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+      "action": "moved",
+      "current_sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\index",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\index",
+      "sha256": "373e7c7fb233e800a703897d2c356f55490802d7122aa74215c79a2df06f38da",
+      "action": "moved",
+      "current_sha256": "373e7c7fb233e800a703897d2c356f55490802d7122aa74215c79a2df06f38da",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\info\\exclude",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\info\\exclude",
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "action": "moved",
+      "current_sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\logs\\HEAD",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\logs\\HEAD",
+      "sha256": "db5c82b0fdc3f89693382fa478d9a3c0f43e109ff68e43fbba067c571a59b3d1",
+      "action": "moved",
+      "current_sha256": "db5c82b0fdc3f89693382fa478d9a3c0f43e109ff68e43fbba067c571a59b3d1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\logs\\refs\\heads\\main",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\logs\\refs\\heads\\main",
+      "sha256": "db5c82b0fdc3f89693382fa478d9a3c0f43e109ff68e43fbba067c571a59b3d1",
+      "action": "moved",
+      "current_sha256": "db5c82b0fdc3f89693382fa478d9a3c0f43e109ff68e43fbba067c571a59b3d1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\52\\495e50a3845c50c1a4517f8fcbcbe09c9fed87",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\52\\495e50a3845c50c1a4517f8fcbcbe09c9fed87",
+      "sha256": "d56b0e080f795c7eb077c0a4ed5101749760a931d845d116195bff79641aab10",
+      "action": "moved",
+      "current_sha256": "d56b0e080f795c7eb077c0a4ed5101749760a931d845d116195bff79641aab10",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\69\\f08cb17f41181514c21a1c6184cd3a9cd79e50",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\69\\f08cb17f41181514c21a1c6184cd3a9cd79e50",
+      "sha256": "45f3da10b69367eaec98b385e20664aa3bbd3fc5d77dcb8cdf2b3f6f953601a8",
+      "action": "moved",
+      "current_sha256": "45f3da10b69367eaec98b385e20664aa3bbd3fc5d77dcb8cdf2b3f6f953601a8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\a5\\f493fa391c5026c6eea7f957f5b1fe4120304a",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\a5\\f493fa391c5026c6eea7f957f5b1fe4120304a",
+      "sha256": "1d75186083628fac681cffbab31d7b0726d39ccabc0088c30809567f8740fd15",
+      "action": "moved",
+      "current_sha256": "1d75186083628fac681cffbab31d7b0726d39ccabc0088c30809567f8740fd15",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\c3\\6c3118ea909f2ebf1a92a9e39a02897cc071d6",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\c3\\6c3118ea909f2ebf1a92a9e39a02897cc071d6",
+      "sha256": "5ecc42243662468f26c78ba8808939e7538249aaad7c2877e19630081a3974d2",
+      "action": "moved",
+      "current_sha256": "5ecc42243662468f26c78ba8808939e7538249aaad7c2877e19630081a3974d2",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\ca\\b200da2e4cc57f9b5a14690bbdf9d336582fbc",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\ca\\b200da2e4cc57f9b5a14690bbdf9d336582fbc",
+      "sha256": "e2a59f1a386744c44236860d03c474066e750453260158e0a553ea143ba114d1",
+      "action": "moved",
+      "current_sha256": "e2a59f1a386744c44236860d03c474066e750453260158e0a553ea143ba114d1",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\d6\\f3a8d15bd9051d291264258f09969e423663cb",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\d6\\f3a8d15bd9051d291264258f09969e423663cb",
+      "sha256": "2b4b21aa8ccce51eac706feb02ee0d519efca528c8954c955e807ef011958f19",
+      "action": "moved",
+      "current_sha256": "2b4b21aa8ccce51eac706feb02ee0d519efca528c8954c955e807ef011958f19",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\d7\\ebe5d7169b9c34199d9950b6d21ad24f36165d",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\d7\\ebe5d7169b9c34199d9950b6d21ad24f36165d",
+      "sha256": "4afa5a0bdbbe9df2494f6d336158c2bb2b8f81613b0c4c4f62dde6aea004a28c",
+      "action": "moved",
+      "current_sha256": "4afa5a0bdbbe9df2494f6d336158c2bb2b8f81613b0c4c4f62dde6aea004a28c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\d8\\806c833b7438a3ac5ca673bdb618ec82b3c13c",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\d8\\806c833b7438a3ac5ca673bdb618ec82b3c13c",
+      "sha256": "9d547e4f34f4611fc1dda05a07a6e859ce1c4ed165560ce2956a45d30c22bf26",
+      "action": "moved",
+      "current_sha256": "9d547e4f34f4611fc1dda05a07a6e859ce1c4ed165560ce2956a45d30c22bf26",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\df\\cc45e60a79399717f92097ef48bb7fdc657f6b",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\df\\cc45e60a79399717f92097ef48bb7fdc657f6b",
+      "sha256": "7cf64f0c354d6a2a433d268165b2590e567d29d4f04200211c953ba538e8f8b9",
+      "action": "moved",
+      "current_sha256": "7cf64f0c354d6a2a433d268165b2590e567d29d4f04200211c953ba538e8f8b9",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\objects\\f4\\10d398093227b63044d9536749efda2e963408",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\objects\\f4\\10d398093227b63044d9536749efda2e963408",
+      "sha256": "af2e967ee1ab2206cc3bf035b9d6f5f7e00a46cc0763487b3e23350a803007be",
+      "action": "moved",
+      "current_sha256": "af2e967ee1ab2206cc3bf035b9d6f5f7e00a46cc0763487b3e23350a803007be",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.git\\refs\\heads\\main",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.git\\refs\\heads\\main",
+      "sha256": "0c2a45f36cf95b8cf30841030ad11d3659f87c7e3608fa28e39e6d4a75878551",
+      "action": "moved",
+      "current_sha256": "0c2a45f36cf95b8cf30841030ad11d3659f87c7e3608fa28e39e6d4a75878551",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\.openai\\hosting.json",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\.openai\\hosting.json",
+      "sha256": "91c6e779acd48f801aa7497a606368db466c85e75aed3f31171c9b183bab0194",
+      "action": "moved",
+      "current_sha256": "91c6e779acd48f801aa7497a606368db466c85e75aed3f31171c9b183bab0194",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\dist\\app.js",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\dist\\app.js",
+      "sha256": "fb28ddf7f6505ec50d5d27b7473e0759344b38e9525b080d63db46597377f223",
+      "action": "moved",
+      "current_sha256": "fb28ddf7f6505ec50d5d27b7473e0759344b38e9525b080d63db46597377f223",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\dist\\content.js",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\dist\\content.js",
+      "sha256": "2ec88e2ad4e101f5393f26a914e01902c02a3d715f5151d1895e545390cef345",
+      "action": "moved",
+      "current_sha256": "2ec88e2ad4e101f5393f26a914e01902c02a3d715f5151d1895e545390cef345",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\dist\\index.html",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\dist\\index.html",
+      "sha256": "f39707d06fb192e30f794ff175341dac7c94761e8d998994ee57a3dbac2cb931",
+      "action": "moved",
+      "current_sha256": "f39707d06fb192e30f794ff175341dac7c94761e8d998994ee57a3dbac2cb931",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\dist\\routes.js",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\dist\\routes.js",
+      "sha256": "2eb58f419e5ad1863df3d9ff9740cf06105596a8ca8286a996d238a5f1789d38",
+      "action": "moved",
+      "current_sha256": "2eb58f419e5ad1863df3d9ff9740cf06105596a8ca8286a996d238a5f1789d38",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\dist\\style.css",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\dist\\style.css",
+      "sha256": "79b97a4c3743097e16f663d7c717e15353b740a9688e45df749d8df898ddfc47",
+      "action": "moved",
+      "current_sha256": "79b97a4c3743097e16f663d7c717e15353b740a9688e45df749d8df898ddfc47",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas\\README.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas\\README.md",
+      "sha256": "9cd0b4152561e173c07faad477adaeb55f6614bc99f03ff595ffe597783bb53c",
+      "action": "moved",
+      "current_sha256": "9cd0b4152561e173c07faad477adaeb55f6614bc99f03ff595ffe597783bb53c",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\sites\\helmet-atlas-deploy.tar.gz",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\sites\\helmet-atlas-deploy.tar.gz",
+      "sha256": "e33c2573ce32a5fc68668a1e7030e5c24ede28234e7d9e56470cfb69f4b108f6",
+      "action": "moved",
+      "current_sha256": "e33c2573ce32a5fc68668a1e7030e5c24ede28234e7d9e56470cfb69f4b108f6",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\FINAL_PRODUCTS.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\FINAL_PRODUCTS_OVERVIEW.md",
+      "sha256": "cdda7b769a5d83d8ad020f9562e9a0ab5d80bbc0cf7f6b5e3b1fcdb2d2026c16",
+      "action": "moved",
+      "current_sha256": "c61a66b694253a302f33df98b58d64c2e95688392f77b66eb13d5176547d576c",
+      "content_edited_after_move": true
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\AGENTS.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\AGENTS.md",
+      "sha256": "fa1f98139031e608d4794b8632f84bdab34459a2f66f22eeeb2b4fbb7270200e",
+      "action": "moved",
+      "current_sha256": "fa1f98139031e608d4794b8632f84bdab34459a2f66f22eeeb2b4fbb7270200e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H01.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H01.jpg",
+      "sha256": "c6811458a9ce0e0b58d1846971b76f8502e2326f3054ee470e4c3a03ab7b50d0",
+      "action": "moved",
+      "current_sha256": "c6811458a9ce0e0b58d1846971b76f8502e2326f3054ee470e4c3a03ab7b50d0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H02.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H02.jpg",
+      "sha256": "de4388a5d9fc2f42c91ecc41a5c7b51abac164c4e5c151b9e0650839f73ccce3",
+      "action": "moved",
+      "current_sha256": "de4388a5d9fc2f42c91ecc41a5c7b51abac164c4e5c151b9e0650839f73ccce3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H03.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H03.jpg",
+      "sha256": "dbc72ff695e2be94edc22d73e76f3166c5a09ea8508378ca458131a892ba0783",
+      "action": "moved",
+      "current_sha256": "dbc72ff695e2be94edc22d73e76f3166c5a09ea8508378ca458131a892ba0783",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H04.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H04.jpg",
+      "sha256": "94c327c599b19ba598e231412eee0a7bee68f54f830635b41f0bb26ea4ed36f3",
+      "action": "moved",
+      "current_sha256": "94c327c599b19ba598e231412eee0a7bee68f54f830635b41f0bb26ea4ed36f3",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H05.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H05.jpg",
+      "sha256": "47e218f4475f7706e9719241aa097d6887fd58a79cb31b89ff50e365d6843b77",
+      "action": "moved",
+      "current_sha256": "47e218f4475f7706e9719241aa097d6887fd58a79cb31b89ff50e365d6843b77",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H06.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H06.jpg",
+      "sha256": "b7746d60a385dd3cd4d1dd704ede9024f214630909168cccdd2b7aae22c594df",
+      "action": "moved",
+      "current_sha256": "b7746d60a385dd3cd4d1dd704ede9024f214630909168cccdd2b7aae22c594df",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H07.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H07.jpg",
+      "sha256": "8a4ad2f39e951b571dfd7b0a3dde6eec66d6b354f12e561a395b81bb61809c6a",
+      "action": "moved",
+      "current_sha256": "8a4ad2f39e951b571dfd7b0a3dde6eec66d6b354f12e561a395b81bb61809c6a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H08.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H08.jpg",
+      "sha256": "7e9c04090b756872d628f19ab16a767a4dab49a7df13b35163c471aa51f0ed23",
+      "action": "moved",
+      "current_sha256": "7e9c04090b756872d628f19ab16a767a4dab49a7df13b35163c471aa51f0ed23",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H09.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H09.jpg",
+      "sha256": "a39cfc9d10cc4acf5edd9455fd48a7cfadf95a0ad3e42f48fc19f83f43f53628",
+      "action": "moved",
+      "current_sha256": "a39cfc9d10cc4acf5edd9455fd48a7cfadf95a0ad3e42f48fc19f83f43f53628",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H10.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H10.jpg",
+      "sha256": "4a727aed18871283a8c554a72ce7be777ef97003bb15bc0464851d8273ca3fad",
+      "action": "moved",
+      "current_sha256": "4a727aed18871283a8c554a72ce7be777ef97003bb15bc0464851d8273ca3fad",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H11.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H11.jpg",
+      "sha256": "920af670351064ed7fb1d7744a622c70e341b8b78b580d4830434fad32bd2948",
+      "action": "moved",
+      "current_sha256": "920af670351064ed7fb1d7744a622c70e341b8b78b580d4830434fad32bd2948",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H12.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H12.jpg",
+      "sha256": "1d649e83bdb12c81a9aac7b88e7c02c82a7dc812239f5bea23082c10494b1a38",
+      "action": "moved",
+      "current_sha256": "1d649e83bdb12c81a9aac7b88e7c02c82a7dc812239f5bea23082c10494b1a38",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H13.jpg",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\H13.jpg",
+      "sha256": "dcb5d3155ad327c62f7a1111b8f2250803f278bcfc2c2abaf69a903b8f52bc24",
+      "action": "moved",
+      "current_sha256": "dcb5d3155ad327c62f7a1111b8f2250803f278bcfc2c2abaf69a903b8f52bc24",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-computer1.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-computer1.webp",
+      "sha256": "a5742b6ae040fb6303a0d09edc4cfad46e0818a52190b5c130efbdf2d5e6a1e0",
+      "action": "moved",
+      "current_sha256": "a5742b6ae040fb6303a0d09edc4cfad46e0818a52190b5c130efbdf2d5e6a1e0",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-destroyer.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-destroyer.webp",
+      "sha256": "7fd299cd6ceaca08e1523989ef418e15831d2c971e16b62aea1eb34071132a1a",
+      "action": "moved",
+      "current_sha256": "7fd299cd6ceaca08e1523989ef418e15831d2c971e16b62aea1eb34071132a1a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-dji.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-dji.webp",
+      "sha256": "67b4e32ebc23c4855c2dd5d799104ed66e95b9dfdc0139d377872dbd783b2593",
+      "action": "moved",
+      "current_sha256": "67b4e32ebc23c4855c2dd5d799104ed66e95b9dfdc0139d377872dbd783b2593",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-dysonzone.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-dysonzone.webp",
+      "sha256": "793f565ec3f42bbb1e0d884ef905a75109be4d4df38edf0225c9584011612a13",
+      "action": "moved",
+      "current_sha256": "793f565ec3f42bbb1e0d884ef905a75109be4d4df38edf0225c9584011612a13",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-recon.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-recon.webp",
+      "sha256": "0b3790c7e641128bd8543fb1c15fb4aa7e1bec138f9d72bb5efbbe0beb4760b8",
+      "action": "moved",
+      "current_sha256": "0b3790c7e641128bd8543fb1c15fb4aa7e1bec138f9d72bb5efbbe0beb4760b8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-rook.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-rook.webp",
+      "sha256": "095d4d0115969f6e6548550d18b62db6afeebfd9f0ddacd1a0812b38cbc02c3e",
+      "action": "moved",
+      "current_sha256": "095d4d0115969f6e6548550d18b62db6afeebfd9f0ddacd1a0812b38cbc02c3e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-sentinel.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-sentinel.webp",
+      "sha256": "16c9b4f266b34f640d8c49800bafcff42e6696aa39ed8c9d25e54ef4d9b8af2f",
+      "action": "moved",
+      "current_sha256": "16c9b4f266b34f640d8c49800bafcff42e6696aa39ed8c9d25e54ef4d9b8af2f",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-speedglas.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-speedglas.webp",
+      "sha256": "88e0ff87ed7df4bb85fc23f88a7b093d464e3150089b4351ef711a5302f0bb27",
+      "action": "moved",
+      "current_sha256": "88e0ff87ed7df4bb85fc23f88a7b093d464e3150089b4351ef711a5302f0bb27",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-videosphere.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-videosphere.webp",
+      "sha256": "81d100781378ef69d9eb4f93cdc410b0272909f70219e4c3dda8579a24b1d9ae",
+      "action": "moved",
+      "current_sha256": "81d100781378ef69d9eb4f93cdc410b0272909f70219e4c3dda8579a24b1d9ae",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-visionpro.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\I-visionpro.webp",
+      "sha256": "568a18fde3911c19d64577d51278875901d73770e2acbd325580c0d60dbf63cc",
+      "action": "moved",
+      "current_sha256": "568a18fde3911c19d64577d51278875901d73770e2acbd325580c0d60dbf63cc",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-destroyer-1.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-destroyer-1.webp",
+      "sha256": "7fd299cd6ceaca08e1523989ef418e15831d2c971e16b62aea1eb34071132a1a",
+      "action": "moved",
+      "current_sha256": "7fd299cd6ceaca08e1523989ef418e15831d2c971e16b62aea1eb34071132a1a",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-destroyer-8.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-destroyer-8.webp",
+      "sha256": "b8fbc8370fa6c941482bae6e9936230e5e199f95339edb7d295d970dd74235f2",
+      "action": "moved",
+      "current_sha256": "b8fbc8370fa6c941482bae6e9936230e5e199f95339edb7d295d970dd74235f2",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-recon-1.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-recon-1.webp",
+      "sha256": "0b3790c7e641128bd8543fb1c15fb4aa7e1bec138f9d72bb5efbbe0beb4760b8",
+      "action": "moved",
+      "current_sha256": "0b3790c7e641128bd8543fb1c15fb4aa7e1bec138f9d72bb5efbbe0beb4760b8",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-recon-4.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-recon-4.webp",
+      "sha256": "20898059f25d15bfebf22b7ccdb3547e623fa4aad7d3f51b36050095870e1f76",
+      "action": "moved",
+      "current_sha256": "20898059f25d15bfebf22b7ccdb3547e623fa4aad7d3f51b36050095870e1f76",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-rook-1.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-rook-1.webp",
+      "sha256": "095d4d0115969f6e6548550d18b62db6afeebfd9f0ddacd1a0812b38cbc02c3e",
+      "action": "moved",
+      "current_sha256": "095d4d0115969f6e6548550d18b62db6afeebfd9f0ddacd1a0812b38cbc02c3e",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-rook-4.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-rook-4.webp",
+      "sha256": "c8e91ba88560b135a9ce59bbec01951c1c3ea5a50aabb67f7f19d5ed0bf5c73f",
+      "action": "moved",
+      "current_sha256": "c8e91ba88560b135a9ce59bbec01951c1c3ea5a50aabb67f7f19d5ed0bf5c73f",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-sentinel-1.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-sentinel-1.webp",
+      "sha256": "16c9b4f266b34f640d8c49800bafcff42e6696aa39ed8c9d25e54ef4d9b8af2f",
+      "action": "moved",
+      "current_sha256": "16c9b4f266b34f640d8c49800bafcff42e6696aa39ed8c9d25e54ef4d9b8af2f",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-sentinel-5.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-sentinel-5.webp",
+      "sha256": "bec50e832d093b0fa1d424099fc57c155e33a77b102f4b49c44d9e774ad13070",
+      "action": "moved",
+      "current_sha256": "bec50e832d093b0fa1d424099fc57c155e33a77b102f4b49c44d9e774ad13070",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-sentinel-6.webp",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\references\\source_images\\M-sentinel-6.webp",
+      "sha256": "03ae895fbe573d3f078bcd6910c90ce528d8a7d8530c9b5324885f74938b4d15",
+      "action": "moved",
+      "current_sha256": "03ae895fbe573d3f078bcd6910c90ce528d8a7d8530c9b5324885f74938b4d15",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\research.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\research.md",
+      "sha256": "2d5a5e91a662be812989f06a7eddb910dccc104cc1c130c1465ebf174ef4f372",
+      "action": "moved",
+      "current_sha256": "2d5a5e91a662be812989f06a7eddb910dccc104cc1c130c1465ebf174ef4f372",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER-7-agent-reference-pack\\ASTER-7\\START_HERE.md",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\ASTER-7-agent-reference-pack\\ASTER-7\\START_HERE.md",
+      "sha256": "c86bac943d0b6e1927e5784523c712acdf6380e7c1a6063cb7917a0e8a34c687",
+      "action": "moved",
+      "current_sha256": "c86bac943d0b6e1927e5784523c712acdf6380e7c1a6063cb7917a0e8a34c687",
+      "content_edited_after_move": false
+    },
+    {
+      "source": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\参考图.pur",
+      "destination": "D:\\个人比赛 接单\\2026腾讯冬季训练营\\Codex\\头盔\\ASTER_7_HELMET_V1_2\\ASTER_7_HELMET_V1_2_OFFLINE_RESEARCH\\archive\\imported-helmet-materials\\参考图.pur",
+      "sha256": "5f5bfae3e6378a36a0edc32210df0b6fd380d08bf909f3c47ff5a6c3ea79c521",
+      "action": "moved",
+      "current_sha256": "5f5bfae3e6378a36a0edc32210df0b6fd380d08bf909f3c47ff5a6c3ea79c521",
+      "content_edited_after_move": false
+    }
+  ],
+  "verification": "All 259 destinations exist; original and current hashes recorded; no source paths remain."
+}
